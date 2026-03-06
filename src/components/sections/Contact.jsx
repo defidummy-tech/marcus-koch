@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { useTranslation } from "react-i18next";
 import Section, { SectionTitle } from "../layout/Section";
 import {
   Mail,
@@ -9,16 +10,9 @@ import {
   CheckCircle2,
 } from "lucide-react";
 
-const benefits = [
-  "Keine Unterkunft nötig — eigener Camper-Van",
-  "Sofort einsatzbereit — schnelle Einarbeitung",
-  "4 Sprachen: DE, EN, FR, ES",
-  "Koch EFZ + MBA = Kulinarik trifft Betriebswirtschaft",
-  "40+ Jahre internationale Erfahrung",
-  "Ideal für Saison, Vertretung oder Beratung",
-];
-
 export default function Contact() {
+  const { t } = useTranslation();
+  const benefits = t("contact.benefits", { returnObjects: true });
   return (
     <section id="contact" className="relative overflow-hidden">
       {/* Dark top section */}
@@ -26,9 +20,9 @@ export default function Contact() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <SectionTitle
             light
-            subtitle="Lassen Sie uns über Ihre Anforderungen sprechen — unverbindlich und unkompliziert."
+            subtitle={t("contact.subtitle")}
           >
-            Kontakt
+            {t("contact.title")}
           </SectionTitle>
 
           <div className="grid lg:grid-cols-2 gap-10 lg:gap-16">
@@ -49,7 +43,7 @@ export default function Contact() {
                     <Mail className="text-gold" size={24} />
                   </div>
                   <div>
-                    <p className="text-white font-semibold">E-Mail</p>
+                    <p className="text-white font-semibold">{t("contact.email")}</p>
                     <p className="text-white/60 text-sm">
                       marcusk66@yahoo.com
                     </p>
@@ -67,9 +61,9 @@ export default function Contact() {
                     <MessageCircle className="text-green-400" size={24} />
                   </div>
                   <div>
-                    <p className="text-white font-semibold">WhatsApp</p>
+                    <p className="text-white font-semibold">{t("contact.whatsapp")}</p>
                     <p className="text-white/60 text-sm">
-                      Direktnachricht senden
+                      {t("contact.whatsappText")}
                     </p>
                   </div>
                 </a>
@@ -81,10 +75,10 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-white font-semibold">
-                      Verfügbar ab August 2026
+                      {t("contact.availability")}
                     </p>
                     <p className="text-white/60 text-sm">
-                      Saisonale & temporäre Engagements
+                      {t("contact.availabilityText")}
                     </p>
                   </div>
                 </div>
@@ -96,10 +90,10 @@ export default function Contact() {
                   </div>
                   <div>
                     <p className="text-white font-semibold">
-                      Ganze Schweiz
+                      {t("contact.location")}
                     </p>
                     <p className="text-white/60 text-sm">
-                      Flexibel mit eigenem Camper-Van — keine Unterkunft nötig
+                      {t("contact.locationText")}
                     </p>
                   </div>
                 </div>
@@ -114,7 +108,7 @@ export default function Contact() {
               transition={{ delay: 0.2 }}
             >
               <h3 className="font-heading text-2xl font-bold text-white mb-6">
-                Warum Marcus Lauer?
+                {t("contact.whyTitle")}
               </h3>
               <ul className="space-y-3">
                 {benefits.map((benefit) => (
@@ -134,18 +128,17 @@ export default function Contact() {
               {/* CTA */}
               <div className="mt-10 p-6 bg-gold/10 rounded-2xl border border-gold/20">
                 <p className="text-gold font-heading text-xl font-bold mb-2">
-                  Bereit für ein Gespräch?
+                  {t("contact.ctaTitle")}
                 </p>
                 <p className="text-white/70 text-sm mb-4">
-                  Ob Saisonverstärkung, Beratungsprojekt oder Notfall-Ersatz —
-                  schreiben Sie mir und wir finden die passende Lösung.
+                  {t("contact.ctaText")}
                 </p>
                 <a
                   href="mailto:marcusk66@yahoo.com"
                   className="inline-flex items-center gap-2 px-6 py-3 bg-gold hover:bg-gold-light text-forest-dark font-semibold rounded-xl transition-all hover:shadow-lg hover:shadow-gold/25"
                 >
                   <Mail size={18} />
-                  Jetzt anfragen
+                  {t("contact.ctaButton")}
                 </a>
               </div>
             </motion.div>

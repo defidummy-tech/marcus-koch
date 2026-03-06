@@ -1,3 +1,4 @@
+import { useTranslation } from "react-i18next";
 import Section, { SectionTitle } from "../layout/Section";
 import {
   Award,
@@ -8,20 +9,21 @@ import {
   ChefHat,
 } from "lucide-react";
 
-const highlights = [
-  { icon: ChefHat, text: "Koch EFZ — Eidgenössischer Fachausweis" },
-  { icon: GraduationCap, text: "MBA & BSc (Summa Cum Laude, Top 2%)" },
-  { icon: Award, text: "40+ Jahre internationale Berufserfahrung" },
-  { icon: Languages, text: "Deutsch · English · Français · Español" },
-  { icon: Globe, text: "Schweiz · USA · Kolumbien" },
-  { icon: Caravan, text: "Eigener Camper-Van — schweizweit flexibel" },
-];
+const highlightIcons = [ChefHat, GraduationCap, Award, Languages, Globe, Caravan];
+const highlightKeys = ["efz", "mba", "years", "languages", "continents", "camper"];
 
 export default function About() {
+  const { t } = useTranslation();
+
+  const highlights = highlightKeys.map((key, i) => ({
+    icon: highlightIcons[i],
+    text: t(`about.highlights.${key}`),
+  }));
+
   return (
     <Section id="about">
-      <SectionTitle subtitle="Koch aus Leidenschaft, Unternehmer aus Überzeugung">
-        Über mich
+      <SectionTitle subtitle={t("about.subtitle")}>
+        {t("about.title")}
       </SectionTitle>
 
       <div className="grid lg:grid-cols-2 gap-10 lg:gap-16 items-center">
@@ -30,7 +32,7 @@ export default function About() {
           <div className="relative rounded-2xl overflow-hidden shadow-2xl">
             <img
               src="/images/portrait/marcus-portrait-main.jpg"
-              alt="Marcus Lauer — Schweizer Küchenchef"
+              alt={t("about.imgAlt")}
               className="w-full h-auto object-cover"
               loading="lazy"
             />
@@ -42,27 +44,18 @@ export default function About() {
 
         {/* Text content */}
         <div>
-          <p className="text-lg leading-relaxed text-charcoal mb-4">
-            Ich bin ein Schweizer Küchenchef der alten Schule — gelernt am{" "}
-            <strong>Hotel de la Paix in Lausanne</strong>, geprägt von der
-            Grossküche des <strong>Anaheim Hilton</strong> in Kalifornien und
-            über 20 Jahre geschärft als Unternehmer in Kolumbien.
-          </p>
-          <p className="text-base leading-relaxed text-warm-gray mb-4">
-            In Cartagena gründete ich das{" "}
-            <strong>Restaurante Casa Suiza</strong> — Swiss-Fusion-Küche mit
-            täglich frischem Brot, Basler Läckerli zum Kaffee und Spätzli als
-            Bestseller. Später baute ich eine komplette Lebensmittelmanufaktur
-            auf: Käse, Joghurt, Charcuterie, Backwaren — alles handwerklich und
-            von Grund auf.
-          </p>
-          <p className="text-base leading-relaxed text-warm-gray mb-6">
-            Als mir die Milchqualität nicht genügte, kaufte ich{" "}
-            <strong>eigene Jersey-Kühe</strong> — für höheren Protein- und
-            Fettgehalt. Ich röstete Kaffee über Holzkohle in der Sierra Nevada,
-            räucherte Fleisch mit Avocadoholz und reifte Blauschimmelkäse in den
-            Anden. Jetzt bringe ich diese Erfahrung zurück in die Schweiz.
-          </p>
+          <p
+            className="text-lg leading-relaxed text-charcoal mb-4"
+            dangerouslySetInnerHTML={{ __html: t("about.p1") }}
+          />
+          <p
+            className="text-base leading-relaxed text-warm-gray mb-4"
+            dangerouslySetInnerHTML={{ __html: t("about.p2") }}
+          />
+          <p
+            className="text-base leading-relaxed text-warm-gray mb-6"
+            dangerouslySetInnerHTML={{ __html: t("about.p3") }}
+          />
 
           {/* Highlights grid */}
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
@@ -84,14 +77,12 @@ export default function About() {
           {/* USP callout */}
           <div className="mt-8 p-5 bg-forest/5 border-l-4 border-forest rounded-r-xl">
             <p className="text-forest font-semibold text-sm uppercase tracking-wide mb-1">
-              Ihr Vorteil
+              {t("about.usp.label")}
             </p>
-            <p className="text-charcoal leading-relaxed">
-              <strong>Unterkunft nicht nötig.</strong> Ich bringe meinen eigenen
-              Camper-Van mit und bin flexibel in der ganzen Schweiz einsetzbar —
-              für saisonale oder temporäre Engagements, ohne Logistikaufwand für
-              Sie.
-            </p>
+            <p
+              className="text-charcoal leading-relaxed"
+              dangerouslySetInnerHTML={{ __html: t("about.usp.text") }}
+            />
           </div>
         </div>
       </div>

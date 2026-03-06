@@ -1,6 +1,8 @@
 import { ChefHat, Mail, ArrowUp } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 export default function Footer() {
+  const { t } = useTranslation();
   const scrollToTop = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
   return (
@@ -16,30 +18,23 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-sm text-white/60 leading-relaxed">
-              Schweizer Küchenchef & Kulinarischer Berater.
+              {t("footer.tagline")}
               <br />
-              40 Jahre Erfahrung — Drei Kontinente — Eine Leidenschaft.
+              {t("footer.tagline2")}
             </p>
           </div>
 
           {/* Quick Links */}
           <div>
-            <h4 className="font-semibold text-white mb-3">Navigation</h4>
+            <h4 className="font-semibold text-white mb-3">{t("footer.navigation")}</h4>
             <div className="grid grid-cols-2 gap-2 text-sm">
-              {[
-                ["about", "Über mich"],
-                ["services", "Leistungen"],
-                ["experience", "Erfahrung"],
-                ["gallery", "Galerie"],
-                ["credentials", "Referenzen"],
-                ["contact", "Kontakt"],
-              ].map(([id, label]) => (
+              {["about", "services", "experience", "gallery", "credentials", "contact"].map((id) => (
                 <a
                   key={id}
                   href={`#${id}`}
                   className="hover:text-gold transition-colors"
                 >
-                  {label}
+                  {t(`nav.${id}`)}
                 </a>
               ))}
             </div>
@@ -47,7 +42,7 @@ export default function Footer() {
 
           {/* Contact */}
           <div>
-            <h4 className="font-semibold text-white mb-3">Kontakt</h4>
+            <h4 className="font-semibold text-white mb-3">{t("footer.contactTitle")}</h4>
             <a
               href="mailto:marcusk66@yahoo.com"
               className="flex items-center gap-2 text-sm hover:text-gold transition-colors"
@@ -56,9 +51,9 @@ export default function Footer() {
               marcusk66@yahoo.com
             </a>
             <p className="text-sm text-white/60 mt-3">
-              Verfügbar ab August 2026
+              {t("footer.available")}
               <br />
-              Schweizweit mit eigenem Camper-Van
+              {t("footer.availableText")}
             </p>
           </div>
         </div>
@@ -66,15 +61,14 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="mt-10 pt-6 border-t border-white/10 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/40">
-            &copy; {new Date().getFullYear()} Marcus Lauer. Alle Rechte
-            vorbehalten.
+            &copy; {new Date().getFullYear()} Marcus Lauer. {t("footer.rights")}
           </p>
           <button
             onClick={scrollToTop}
             className="flex items-center gap-1 text-xs text-white/40 hover:text-gold transition-colors"
           >
             <ArrowUp size={14} />
-            Nach oben
+            {t("footer.backToTop")}
           </button>
         </div>
       </div>

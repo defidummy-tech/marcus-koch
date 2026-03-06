@@ -1,18 +1,18 @@
 export const experience = [
   {
-    year: "1984",
-    title: "Koch — Schweizer Armee",
-    description:
-      "Zubereitung von Mahlzeiten unter militärischen Bedingungen. Fokus auf Effizienz, Logistik und Qualität bei Grossverpflegung.",
-    type: "culinary",
-  },
-  {
     year: "1984–1987",
     title: "Kochlehre — Hotel de la Paix, Lausanne",
     description:
       "Dreijährige Lehre mit Abschluss eidgenössischer Fachausweis (Koch EFZ). Praxis in Fine-Dining und internationaler Küche. Zusätzlich: Certificat d'Économie, École Lémania (1986).",
     type: "culinary",
     image: "/images/credentials/hotel-delapaix-zeugnis.jpg",
+  },
+  {
+    year: "1987",
+    title: "Koch — Schweizer Armee",
+    description:
+      "Zubereitung von Mahlzeiten unter militärischen Bedingungen. Fokus auf Effizienz, Logistik und Qualität bei Grossverpflegung.",
+    type: "culinary",
   },
   {
     year: "1987–1989",

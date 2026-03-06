@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "À propos",
+    "services": "Prestations",
+    "experience": "Parcours",
+    "gallery": "Galerie",
+    "credentials": "Références",
+    "contact": "Contact",
+    "availBadge": "Dès août 2026",
+    "availBadgeMobile": "Disponible dès août 2026"
+  },
+  "hero": {
+    "badge": "Disponible dès août 2026 — Toute la Suisse & international",
+    "subtitle": "Chef cuisinier suisse & Consultant culinaire",
+    "tagline1": "Quatre décennies d'expérience. Trois continents. Une passion :",
+    "tagline2": "Cuisine artisanale à base d'ingrédients frais et naturels — fait maison.",
+    "ctaContact": "Me contacter",
+    "ctaGallery": "Mes Créations",
+    "stats": {
+      "years": "Ans d'expérience",
+      "languages": "Langues",
+      "continents": "Continents",
+      "entrepreneur": "Ans entrepreneur"
+    }
+  },
+  "about": {
+    "title": "À propos",
+    "subtitle": "Cuisinier par passion, entrepreneur par conviction",
+    "p1": "Je suis un chef cuisinier suisse de la vieille école — formé à l'<strong>Hôtel de la Paix à Lausanne</strong>, forgé par les grandes cuisines de l'<strong>Anaheim Hilton</strong> en Californie et affiné pendant plus de 20 ans en tant qu'entrepreneur en Colombie.",
+    "p2": "À Carthagène, j'ai fondé le <strong>Restaurante Casa Suiza</strong> — cuisine fusion suisse avec du pain frais quotidien, des Basler Läckerli au café et des Spätzle comme best-seller. Plus tard, j'ai construit une manufacture alimentaire complète : fromage, yaourt, charcuterie, boulangerie — tout artisanal et fait maison.",
+    "p3": "Quand la qualité du lait ne me suffisait plus, j'ai acheté mes <strong>propres vaches Jersey</strong> — pour une teneur plus élevée en protéines et en matières grasses. J'ai torréfié du café au charbon dans la Sierra Nevada, fumé de la viande au bois d'avocatier et affiné du fromage bleu dans les Andes. Maintenant, je ramène cette expérience en Suisse.",
+    "highlights": {
+      "efz": "CFC de cuisinier — Certificat fédéral de capacité",
+      "mba": "MBA & BSc (Summa Cum Laude, Top 2%)",
+      "years": "40+ ans d'expérience internationale",
+      "languages": "Deutsch · English · Français · Español",
+      "continents": "Suisse · États-Unis · Colombie",
+      "camper": "Camping-car personnel — flexible dans toute la Suisse"
+    },
+    "usp": {
+      "label": "Votre avantage",
+      "text": "<strong>Pas de logement nécessaire.</strong> J'apporte mon propre camping-car et suis disponible de manière flexible dans toute la Suisse — pour des engagements saisonniers ou temporaires, sans charge logistique pour vous."
+    },
+    "imgAlt": "Marcus Lauer — Chef cuisinier suisse"
+  },
+  "services": {
+    "title": "Mes Prestations",
+    "subtitle": "Conseiller, développeur de concepts et chef de cuisine en un.",
+    "items": [
+      {
+        "title": "Développement de menus & Conseil",
+        "description": "Concepts de menus saisonniers développés de A à Z. Local, frais, durable — des herbes sauvages des Alpes aux classiques de la cuisine suisse.",
+        "highlights": ["Concepts saisonniers", "Fait maison", "Produits locaux"]
+      },
+      {
+        "title": "Optimisation des coûts alimentaires",
+        "description": "Fort d'un MBA et de 30 ans d'expérience entrepreneuriale, j'analyse les achats, le portionnement et les flux de travail — pour une rentabilité maximale sans compromis sur la qualité.",
+        "highlights": ["Analyse des coûts", "Optimisation des achats", "Augmentation des bénéfices"]
+      },
+      {
+        "title": "Formation du personnel & Organisation",
+        "description": "Établir des flux de travail efficaces, former le personnel de cuisine et éliminer les situations de stress par une conception intelligente des menus.",
+        "highlights": ["Optimisation des flux", "Formation d'équipe", "Hygiène & HACCP"]
+      },
+      {
+        "title": "Pop-up Events & Traiteur",
+        "description": "Des soirées suisses aux dîners pop-up alpins. Expérience avec les grands événements, le traiteur d'entreprise et les dîners privés exclusifs.",
+        "highlights": ["Événements corporate", "Dîners privés", "Soirées suisses"]
+      },
+      {
+        "title": "Développement de produits artisanaux",
+        "description": "Fromage, charcuterie, boulangerie, yaourt, confitures, sauces — tout artisanal et fait maison. Développement de produits jusqu'à la mise sur le marché.",
+        "highlights": ["Fromagerie", "Boulangerie", "Fumoir"]
+      },
+      {
+        "title": "Chef remplaçant & Intérimaire",
+        "description": "Disponible à court terme comme chef de cuisine expérimenté pour les urgences, le renfort saisonnier ou les remplacements de vacances.",
+        "highlights": ["Immédiatement opérationnel", "Renfort saisonnier", "Remplacement vacances"]
+      }
+    ],
+    "approach": {
+      "title": "Ma méthode de travail",
+      "firstWeek": "La première semaine",
+      "firstWeekText": "je mets la main à la pâte — du bureau du chef à la plonge. J'observe les processus de production et d'exploitation, j'analyse les flux de travail et j'apprends l'organisation de fond en comble.",
+      "stressText": "Lorsque les situations de stress sont excessives, ce sont les processus qu'il faut optimiser — pas le personnel. Souvent, des ajustements intelligents du menu suffisent pour réduire durablement la pression en cuisine tout en assurant qualité et régularité.",
+      "profitNiches": "Je trouve des niches de profit",
+      "profitNichesText": "que d'autres ne voient pas : Par jour de pluie dans les Alpes sans clients, je produis des barres énergétiques granola pour randonneurs ou du kombucha — revenus supplémentaires avec les ressources existantes.",
+      "menuDev": "Développement de menus :",
+      "menuDevText": "Local d'abord, frais d'abord, saisonnier d'abord, qualité d'abord. Je parcours forêts et alpages, cueillant baies sauvages et thym de montagne pour ma cuisine."
+    }
+  },
+  "experience": {
+    "title": "Mon Parcours",
+    "subtitle": "Des cuisines d'hôtels lausannois en passant par la Californie et la Colombie — retour en Suisse."
+  },
+  "gallery": {
+    "title": "Mes Créations",
+    "subtitle": "Du fromage artisanal à la Forêt-Noire en passant par les Spätzle tricolores — tout fait maison.",
+    "categories": {
+      "all": "Tous",
+      "dishes": "Plats",
+      "bakery": "Boulangerie & Desserts",
+      "charcuterie": "Charcuterie",
+      "cheese": "Fromage",
+      "products": "Produits",
+      "restaurant": "Restaurant & Événements"
+    }
+  },
+  "credentials": {
+    "title": "Qualifications & Références",
+    "subtitle": "Qualifications fédérales suisses, diplômes internationaux et références de premier ordre.",
+    "diplomas": "Diplômes & Certificats",
+    "references": "Certificats de travail & Recommandations"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Parlons de vos besoins — sans engagement et en toute simplicité.",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Envoyer un message direct",
+    "availability": "Disponible dès août 2026",
+    "availabilityText": "Engagements saisonniers & temporaires",
+    "location": "Toute la Suisse — aussi disponible à l'international",
+    "locationText": "Flexible avec camping-car personnel — pas de logement nécessaire",
+    "whyTitle": "Pourquoi Marcus Lauer ?",
+    "benefits": [
+      "Pas de logement nécessaire — camping-car personnel",
+      "Immédiatement opérationnel — intégration rapide",
+      "4 langues : DE, EN, FR, ES",
+      "CFC + MBA = Gastronomie et gestion d'entreprise",
+      "40+ ans d'expérience internationale",
+      "Idéal pour la saison, le remplacement ou le conseil"
+    ],
+    "ctaTitle": "Prêt pour une conversation ?",
+    "ctaText": "Qu'il s'agisse de renfort saisonnier, de projet de conseil ou de remplacement d'urgence — écrivez-moi et nous trouverons la solution adaptée.",
+    "ctaButton": "Me contacter"
+  },
+  "footer": {
+    "tagline": "Chef cuisinier suisse & Consultant culinaire.",
+    "tagline2": "40 ans d'expérience — Trois continents — Une passion.",
+    "navigation": "Navigation",
+    "contactTitle": "Contact",
+    "available": "Disponible dès août 2026",
+    "availableText": "Dans toute la Suisse avec camping-car personnel",
+    "rights": "Tous droits réservés.",
+    "backToTop": "Retour en haut"
+  }
+}

@@ -1,13 +1,22 @@
-import { useState, useCallback } from "react";
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
+import { useTranslation } from "react-i18next";
 import Section, { SectionTitle } from "../layout/Section";
-import { categories, galleryItems } from "../../data/gallery";
+import { galleryItems } from "../../data/gallery";
+
+const categoryIds = ["all", "dishes", "bakery", "charcuterie", "cheese", "products", "restaurant"];
 
 export default function Gallery() {
+  const { t } = useTranslation();
   const [activeCategory, setActiveCategory] = useState("all");
   const [lightboxIndex, setLightboxIndex] = useState(-1);
+
+  const categories = categoryIds.map((id) => ({
+    id,
+    label: t(`gallery.categories.${id}`),
+  }));
 
   const filtered =
     activeCategory === "all"
@@ -22,10 +31,8 @@ export default function Gallery() {
 
   return (
     <Section id="gallery" className="bg-cream-dark">
-      <SectionTitle
-        subtitle="Von handwerklichem Käse über Schwarzwälder Kirschtorte bis zu Tricolor-Spätzli — alles von Grund auf."
-      >
-        Meine Kreationen
+      <SectionTitle subtitle={t("gallery.subtitle")}>
+        {t("gallery.title")}
       </SectionTitle>
 
       {/* Filter tabs */}

@@ -21,13 +21,13 @@ export const galleryItems = [
     category: "dishes",
   },
   {
-    src: "/images/food/grilled-bratwurst-mustard.jpg",
-    alt: "Gegrillte hausgemachte Bratwurst mit Senf",
+    src: "/images/food/smoked-ham-board.jpg",
+    alt: "Geräucherter Schinken auf Holzbrett",
     category: "dishes",
   },
   {
-    src: "/images/food/homemade-sausage.jpg",
-    alt: "Hausgemachte Wurst mit Senf",
+    src: "/images/food/ham-mustard-plated.jpg",
+    alt: "Schinken mit hausgemachtem Senf",
     category: "dishes",
   },
   {
@@ -134,6 +134,26 @@ export const galleryItems = [
   {
     src: "/images/cheese/fresh-cheese-production.jpg",
     alt: "Frischkäse-Produktion",
+    category: "cheese",
+  },
+  {
+    src: "/images/cheese/mozzarella-balls.jpg",
+    alt: "Frische Mozzarella — eigene Herstellung",
+    category: "cheese",
+  },
+  {
+    src: "/images/cheese/mozzarella-packaged.jpg",
+    alt: "Queso Mozzarella — Alimentos Casa Suiza",
+    category: "cheese",
+  },
+  {
+    src: "/images/cheese/provolone.jpg",
+    alt: "Provolone — handwerklich hergestellt",
+    category: "cheese",
+  },
+  {
+    src: "/images/cheese/provolone-packaged.jpg",
+    alt: "Queso Provolone — verpackt für den Verkauf",
     category: "cheese",
   },
 

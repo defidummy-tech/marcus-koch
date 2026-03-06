@@ -2,11 +2,13 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
+import { useTranslation } from "react-i18next";
 import Section, { SectionTitle } from "../layout/Section";
 import { diplomas, references } from "../../data/credentials";
 import { Award, Quote } from "lucide-react";
 
 export default function Credentials() {
+  const { t } = useTranslation();
   const [lightboxOpen, setLightboxOpen] = useState(false);
   const [lightboxIndex, setLightboxIndex] = useState(0);
 
@@ -26,16 +28,16 @@ export default function Credentials() {
   return (
     <Section id="credentials">
       <SectionTitle
-        subtitle="Eidgenössische Qualifikationen, internationale Diplome und erstklassige Referenzen."
+        subtitle={t("credentials.subtitle")}
       >
-        Qualifikationen & Referenzen
+        {t("credentials.title")}
       </SectionTitle>
 
       {/* Diplomas */}
       <div className="mb-16">
         <h3 className="font-heading text-2xl font-bold text-charcoal mb-6 flex items-center gap-2">
           <Award className="text-gold" size={24} />
-          Diplome & Zertifikate
+          {t("credentials.diplomas")}
         </h3>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
           {diplomas.map((diploma, i) => (
@@ -73,7 +75,7 @@ export default function Credentials() {
       <div>
         <h3 className="font-heading text-2xl font-bold text-charcoal mb-6 flex items-center gap-2">
           <Quote className="text-gold" size={24} />
-          Arbeitszeugnisse & Empfehlungen
+          {t("credentials.references")}
         </h3>
         <div className="grid md:grid-cols-2 gap-6">
           {references.map((ref, i) => (

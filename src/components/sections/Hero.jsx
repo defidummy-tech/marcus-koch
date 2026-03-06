@@ -1,7 +1,10 @@
 import { motion } from "framer-motion";
 import { ChevronDown, Mail, ImageIcon } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 export default function Hero() {
+  const { t } = useTranslation();
+
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
       {/* Background image with overlay */}
@@ -30,7 +33,7 @@ export default function Hero() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-white opacity-75" />
               <span className="relative inline-flex rounded-full h-2.5 w-2.5 bg-white" />
             </span>
-            Verfügbar ab August 2026 — Schweizweit
+            {t("hero.badge")}
           </div>
         </motion.div>
 
@@ -40,7 +43,10 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="font-heading text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-bold text-white mb-6"
         >
-          Marcus Lauer
+          Marcus Lauer{" "}
+          <span className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-gold-light font-normal">
+            (EFZ/MBA)
+          </span>
         </motion.h1>
 
         <motion.p
@@ -49,7 +55,7 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.6 }}
           className="text-xl md:text-2xl text-gold-light font-heading italic mb-4"
         >
-          Schweizer Küchenchef & Kulinarischer Berater
+          {t("hero.subtitle")}
         </motion.p>
 
         <motion.p
@@ -58,9 +64,9 @@ export default function Hero() {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-lg md:text-xl text-white/70 max-w-3xl mx-auto mb-10 leading-relaxed"
         >
-          Vier Jahrzehnte Erfahrung. Drei Kontinente. Eine Leidenschaft:{" "}
+          {t("hero.tagline1")}{" "}
           <br className="hidden sm:inline" />
-          Handwerkliche Küche aus frischen, natürlichen Zutaten — von Grund auf.
+          {t("hero.tagline2")}
         </motion.p>
 
         <motion.div
@@ -74,14 +80,14 @@ export default function Hero() {
             className="inline-flex items-center gap-2 px-8 py-4 bg-gold hover:bg-gold-light text-forest-dark font-semibold rounded-xl transition-all hover:shadow-lg hover:shadow-gold/25 hover:-translate-y-0.5"
           >
             <Mail size={20} />
-            Kontaktieren Sie mich
+            {t("hero.ctaContact")}
           </a>
           <a
             href="#gallery"
             className="inline-flex items-center gap-2 px-8 py-4 bg-white/10 hover:bg-white/20 text-white font-semibold rounded-xl backdrop-blur-sm transition-all border border-white/20"
           >
             <ImageIcon size={20} />
-            Meine Kreationen
+            {t("hero.ctaGallery")}
           </a>
         </motion.div>
 
@@ -93,10 +99,10 @@ export default function Hero() {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8"
         >
           {[
-            ["40+", "Jahre Erfahrung"],
-            ["4", "Sprachen"],
-            ["3", "Kontinente"],
-            ["20+", "Jahre Unternehmer"],
+            ["40+", t("hero.stats.years")],
+            ["4", t("hero.stats.languages")],
+            ["3", t("hero.stats.continents")],
+            ["20+", t("hero.stats.entrepreneur")],
           ].map(([num, label]) => (
             <div key={label} className="text-center">
               <div className="text-3xl md:text-4xl font-bold text-gold">

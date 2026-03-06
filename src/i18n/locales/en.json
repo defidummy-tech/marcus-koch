@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "experience": "Experience",
+    "gallery": "Gallery",
+    "credentials": "References",
+    "contact": "Contact",
+    "availBadge": "From Aug 2026",
+    "availBadgeMobile": "Available from August 2026"
+  },
+  "hero": {
+    "badge": "Available from August 2026 — Switzerland & worldwide",
+    "subtitle": "Swiss Executive Chef & Culinary Consultant",
+    "tagline1": "Four decades of experience. Three continents. One passion:",
+    "tagline2": "Artisan cuisine from fresh, natural ingredients — from scratch.",
+    "ctaContact": "Get in touch",
+    "ctaGallery": "My Creations",
+    "stats": {
+      "years": "Years of Experience",
+      "languages": "Languages",
+      "continents": "Continents",
+      "entrepreneur": "Years Entrepreneur"
+    }
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Chef by passion, entrepreneur by conviction",
+    "p1": "I am a classically trained Swiss chef — apprenticed at the <strong>Hotel de la Paix in Lausanne</strong>, shaped by the large-scale kitchens of the <strong>Anaheim Hilton</strong> in California, and honed over 20 years as an entrepreneur in Colombia.",
+    "p2": "In Cartagena I founded <strong>Restaurante Casa Suiza</strong> — Swiss fusion cuisine with daily fresh bread, Basler Läckerli with coffee, and Spätzle as the bestseller. Later I built a complete food manufacturing operation: cheese, yogurt, charcuterie, baked goods — all artisanal and from scratch.",
+    "p3": "When the milk quality wasn't good enough, I bought my <strong>own Jersey cows</strong> — for higher protein and fat content. I roasted coffee over charcoal in the Sierra Nevada, smoked meats with avocado wood, and aged blue cheese in the Andes. Now I'm bringing this experience back to Switzerland.",
+    "highlights": {
+      "efz": "Swiss Federal Chef Certificate (Koch EFZ)",
+      "mba": "MBA & BSc (Summa Cum Laude, Top 2%)",
+      "years": "40+ years of international experience",
+      "languages": "Deutsch · English · Français · Español",
+      "continents": "Switzerland · USA · Colombia",
+      "camper": "Own camper van — flexible across Switzerland"
+    },
+    "usp": {
+      "label": "Your Advantage",
+      "text": "<strong>No accommodation needed.</strong> I bring my own camper van and am flexibly deployable across all of Switzerland — for seasonal or temporary engagements, with zero logistics on your end."
+    },
+    "imgAlt": "Marcus Lauer — Swiss Executive Chef"
+  },
+  "services": {
+    "title": "My Services",
+    "subtitle": "Consultant, concept developer, and executive chef in one.",
+    "items": [
+      {
+        "title": "Menu Development & Consulting",
+        "description": "Seasonal menu concepts developed from scratch. Local, fresh, sustainable — from Alpine wild herbs to classic Swiss dishes.",
+        "highlights": ["Seasonal Concepts", "From Scratch", "Local Ingredients"]
+      },
+      {
+        "title": "Food Cost Optimization",
+        "description": "With an MBA and 30 years of entrepreneurial experience, I analyze purchasing, portioning, and workflows — for maximum profitability without compromising quality.",
+        "highlights": ["Cost Analysis", "Procurement Optimization", "Profit Growth"]
+      },
+      {
+        "title": "Staff Training & Kitchen Organization",
+        "description": "Establish efficient workflows, train kitchen staff, and eliminate stress situations through smart menu design — not manage them.",
+        "highlights": ["Workflow Optimization", "Team Training", "Hygiene & HACCP"]
+      },
+      {
+        "title": "Pop-up Events & Catering",
+        "description": "From Swiss Night events to Alpine pop-up dinners. Experience with large-scale events, corporate catering, and exclusive private dining.",
+        "highlights": ["Corporate Events", "Private Dining", "Swiss Evenings"]
+      },
+      {
+        "title": "Artisanal Product Development",
+        "description": "Cheese, charcuterie, baked goods, yogurt, jams, sauces — all artisanal and from scratch. Product development to market readiness.",
+        "highlights": ["Cheese Making", "Bakery", "Smoked Goods"]
+      },
+      {
+        "title": "Relief Chef & Replacement",
+        "description": "Available at short notice as an experienced executive chef for emergencies, seasonal reinforcement, or holiday cover. Rapid onboarding guaranteed.",
+        "highlights": ["Ready Immediately", "Seasonal Support", "Holiday Cover"]
+      }
+    ],
+    "approach": {
+      "title": "My Approach",
+      "firstWeek": "In the first week",
+      "firstWeekText": "I get my hands dirty — from the chef's office to the dishwashing station. I observe production and operational processes, analyze workflows, and learn the organization from the ground up.",
+      "stressText": "When stress situations occur excessively, workflows need to be optimized — not the staff. Often, smart menu adjustments are enough to sustainably reduce kitchen pressure while ensuring quality and consistency.",
+      "profitNiches": "I find profit niches",
+      "profitNichesText": "that others overlook: On a rainy day in the Alps with no guests, I produce granola energy bars for hikers or kombucha as a refreshment — additional revenue from existing resources.",
+      "menuDev": "Menu development:",
+      "menuDevText": "Local first, fresh first, seasonal first, quality first. I hike through forests and Alpine meadows, gathering wild berries and mountain thyme for my kitchen."
+    }
+  },
+  "experience": {
+    "title": "My Career",
+    "subtitle": "From Lausanne's hotel kitchens via California and Colombia — back to Switzerland."
+  },
+  "gallery": {
+    "title": "My Creations",
+    "subtitle": "From artisan cheese to Black Forest cake to tricolor Spätzle — everything from scratch.",
+    "categories": {
+      "all": "All",
+      "dishes": "Dishes",
+      "bakery": "Baked Goods & Desserts",
+      "charcuterie": "Charcuterie",
+      "cheese": "Cheese",
+      "products": "Products",
+      "restaurant": "Restaurant & Events"
+    }
+  },
+  "credentials": {
+    "title": "Qualifications & References",
+    "subtitle": "Swiss federal qualifications, international diplomas, and top-tier references.",
+    "diplomas": "Diplomas & Certificates",
+    "references": "Work References & Recommendations"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's discuss your requirements — no obligation, no fuss.",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Send a direct message",
+    "availability": "Available from August 2026",
+    "availabilityText": "Seasonal & temporary engagements",
+    "location": "All of Switzerland — also available worldwide",
+    "locationText": "Flexible with own camper van — no accommodation needed",
+    "whyTitle": "Why Marcus Lauer?",
+    "benefits": [
+      "No accommodation needed — own camper van",
+      "Ready to start immediately — fast onboarding",
+      "4 languages: DE, EN, FR, ES",
+      "Chef Certificate + MBA = Culinary meets Business",
+      "40+ years of international experience",
+      "Ideal for seasonal, relief, or consulting work"
+    ],
+    "ctaTitle": "Ready for a conversation?",
+    "ctaText": "Whether seasonal reinforcement, consulting project, or emergency replacement — write to me and we'll find the right solution.",
+    "ctaButton": "Get in touch"
+  },
+  "footer": {
+    "tagline": "Swiss Executive Chef & Culinary Consultant.",
+    "tagline2": "40 years of experience — Three continents — One passion.",
+    "navigation": "Navigation",
+    "contactTitle": "Contact",
+    "available": "Available from August 2026",
+    "availableText": "Switzerland-wide with own camper van",
+    "rights": "All rights reserved.",
+    "backToTop": "Back to top"
+  }
+}

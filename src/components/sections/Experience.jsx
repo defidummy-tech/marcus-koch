@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { useTranslation } from "react-i18next";
 import Section, { SectionTitle } from "../layout/Section";
 import { experience } from "../../data/experience";
 
@@ -75,12 +76,11 @@ function TimelineItem({ item, index, isLast }) {
 }
 
 export default function Experience() {
+  const { t } = useTranslation();
   return (
     <Section id="experience">
-      <SectionTitle
-        subtitle="Von der Lausanner Hotelküche über Kalifornien und Kolumbien — zurück in die Schweiz."
-      >
-        Mein Werdegang
+      <SectionTitle subtitle={t("experience.subtitle")}>
+        {t("experience.title")}
       </SectionTitle>
 
       <div className="max-w-3xl mx-auto">

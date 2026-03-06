@@ -1,9 +1,26 @@
 import { motion } from "framer-motion";
+import { useTranslation } from "react-i18next";
 import Section, { SectionTitle } from "../layout/Section";
-import { services } from "../../data/services";
+import {
+  UtensilsCrossed,
+  TrendingUp,
+  Users,
+  Flame,
+  Milk,
+  Clock,
+} from "lucide-react";
 
-function ServiceCard({ service, index }) {
-  const Icon = service.icon;
+const serviceIcons = [UtensilsCrossed, TrendingUp, Users, Flame, Milk, Clock];
+const bgImages = [
+  "/images/food/tricolor-spaetzle-bratwurst.jpg",
+  "/images/credentials/mba-diploma.jpg",
+  "/images/portrait/marcus-cooking-action.jpg",
+  "/images/restaurant/swiss-catering-buffet.jpg",
+  "/images/cheese/rosemary-herb-cheese.jpg",
+  "/images/portrait/marcus-portrait-main.jpg",
+];
+
+function ServiceCard({ service, index, icon: Icon, bgImage }) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 30 }}
@@ -13,12 +30,12 @@ function ServiceCard({ service, index }) {
       className="group relative bg-white rounded-2xl p-6 md:p-8 shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-cream-dark overflow-hidden"
     >
       {/* Faded background image */}
-      {service.bgImage && (
+      {bgImage && (
         <div className="absolute inset-0 pointer-events-none">
           <img
-            src={service.bgImage}
+            src={bgImage}
             alt=""
-            className="w-full h-full object-cover opacity-[0.06] group-hover:opacity-[0.12] transition-opacity duration-500 scale-110"
+            className="w-full h-full object-cover opacity-[0.12] group-hover:opacity-[0.22] transition-opacity duration-500 scale-110"
           />
         </div>
       )}
@@ -50,17 +67,24 @@ function ServiceCard({ service, index }) {
 }
 
 export default function Services() {
+  const { t } = useTranslation();
+  const items = t("services.items", { returnObjects: true });
+
   return (
     <Section id="services" className="bg-cream-dark">
-      <SectionTitle
-        subtitle="Nicht Linienkoch — sondern Berater, Konzeptentwickler und Küchenchef in einem."
-      >
-        Meine Leistungen
+      <SectionTitle subtitle={t("services.subtitle")}>
+        {t("services.title")}
       </SectionTitle>
 
       <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
-        {services.map((service, i) => (
-          <ServiceCard key={service.title} service={service} index={i} />
+        {items.map((service, i) => (
+          <ServiceCard
+            key={i}
+            service={service}
+            index={i}
+            icon={serviceIcons[i]}
+            bgImage={bgImages[i]}
+          />
         ))}
       </div>
 
@@ -73,38 +97,28 @@ export default function Services() {
         className="mt-12 bg-white rounded-2xl p-6 md:p-8 shadow-sm border border-cream-dark"
       >
         <h3 className="font-heading text-xl font-bold text-charcoal mb-4">
-          Meine Arbeitsweise
+          {t("services.approach.title")}
         </h3>
         <div className="grid md:grid-cols-2 gap-6 text-sm text-warm-gray leading-relaxed">
           <div>
             <p className="mb-3">
-              <strong className="text-charcoal">In der ersten Woche</strong>{" "}
-              packe ich an — vom Büro des Küchenchefs bis zur Abwaschstation.
-              Ich beobachte Produktions- und Betriebsprozesse, analysiere
-              Arbeitsabläufe und lerne die Organisation von Grund auf kennen.
+              <strong className="text-charcoal">{t("services.approach.firstWeek")}</strong>{" "}
+              {t("services.approach.firstWeekText")}
             </p>
             <p>
-              Wenn «Stresssituationen» übermässig auftreten, müssen Abläufe
-              optimiert werden — nicht das Personal. Oft helfen kluge
-              Anpassungen am Menü, um den Druck in der Küche nachhaltig zu
-              reduzieren.
+              {t("services.approach.stressText")}
             </p>
           </div>
           <div>
             <p className="mb-3">
               <strong className="text-charcoal">
-                Ich finde Profit-Nischen,
+                {t("services.approach.profitNiches")}
               </strong>{" "}
-              die andere übersehen: An einem Regentag auf der Alp ohne Gäste
-              produziere ich Granola-Energieriegel für Wanderer oder Kombucha
-              als Erfrischungsgetränk — zusätzliche Einnahmen aus vorhandenen
-              Ressourcen.
+              {t("services.approach.profitNichesText")}
             </p>
             <p>
-              <strong className="text-charcoal">Menüentwicklung:</strong> Lokal
-              zuerst, frisch zuerst, saisonal zuerst, Qualität zuerst. Ich
-              wandere durch Wälder und Alpweiden, sammle wilde Beeren und
-              Bergthymian für meine Küche.
+              <strong className="text-charcoal">{t("services.approach.menuDev")}</strong>{" "}
+              {t("services.approach.menuDevText")}
             </p>
           </div>
         </div>

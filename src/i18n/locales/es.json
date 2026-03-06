@@ -1,0 +1,148 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "services": "Servicios",
+    "experience": "Trayectoria",
+    "gallery": "Galería",
+    "credentials": "Referencias",
+    "contact": "Contacto",
+    "availBadge": "Desde ago 2026",
+    "availBadgeMobile": "Disponible desde agosto 2026"
+  },
+  "hero": {
+    "badge": "Disponible desde agosto 2026 — Toda Suiza & mundial",
+    "subtitle": "Chef suizo & Consultor culinario",
+    "tagline1": "Cuatro décadas de experiencia. Tres continentes. Una pasión:",
+    "tagline2": "Cocina artesanal con ingredientes frescos y naturales — desde cero.",
+    "ctaContact": "Contácteme",
+    "ctaGallery": "Mis Creaciones",
+    "stats": {
+      "years": "Años de experiencia",
+      "languages": "Idiomas",
+      "continents": "Continentes",
+      "entrepreneur": "Años empresario"
+    }
+  },
+  "about": {
+    "title": "Sobre mí",
+    "subtitle": "Cocinero por pasión, empresario por convicción",
+    "p1": "Soy un chef suizo de la vieja escuela — formado en el <strong>Hotel de la Paix en Lausana</strong>, moldeado por las grandes cocinas del <strong>Anaheim Hilton</strong> en California y afinado durante más de 20 años como empresario en Colombia.",
+    "p2": "En Cartagena fundé el <strong>Restaurante Casa Suiza</strong> — cocina fusión suiza con pan fresco diario, Basler Läckerli con el café y Spätzle como éxito de ventas. Posteriormente construí una manufactura completa de alimentos: queso, yogur, charcutería, panadería — todo artesanal y desde cero.",
+    "p3": "Cuando la calidad de la leche no me bastaba, compré mis <strong>propias vacas Jersey</strong> — por su mayor contenido de proteínas y grasa. Tosté café a carbón en la Sierra Nevada, ahumé carnes con madera de aguacate y maduré queso azul en los Andes. Ahora traigo esta experiencia de vuelta a Suiza.",
+    "highlights": {
+      "efz": "Certificado Federal Suizo de Chef (Koch EFZ)",
+      "mba": "MBA & BSc (Summa Cum Laude, Top 2%)",
+      "years": "40+ años de experiencia internacional",
+      "languages": "Deutsch · English · Français · Español",
+      "continents": "Suiza · EE.UU. · Colombia",
+      "camper": "Camper propio — flexible en toda Suiza"
+    },
+    "usp": {
+      "label": "Su ventaja",
+      "text": "<strong>Sin necesidad de alojamiento.</strong> Traigo mi propio camper y estoy disponible de forma flexible en toda Suiza — para compromisos estacionales o temporales, sin carga logística para usted."
+    },
+    "imgAlt": "Marcus Lauer — Chef suizo"
+  },
+  "services": {
+    "title": "Mis Servicios",
+    "subtitle": "Asesor, desarrollador de conceptos y chef de cocina en uno.",
+    "items": [
+      {
+        "title": "Desarrollo de menú & Asesoría",
+        "description": "Conceptos de menú estacionales desarrollados desde cero. Local, fresco, sostenible — desde hierbas silvestres de los Alpes hasta platos clásicos suizos.",
+        "highlights": ["Conceptos estacionales", "Desde cero", "Ingredientes locales"]
+      },
+      {
+        "title": "Optimización de costos alimentarios",
+        "description": "Con un MBA y 30 años de experiencia empresarial, analizo compras, porciones y flujos de trabajo — para máxima rentabilidad sin perder calidad.",
+        "highlights": ["Análisis de costos", "Optimización de compras", "Aumento de ganancias"]
+      },
+      {
+        "title": "Capacitación & Organización de cocina",
+        "description": "Establecer flujos de trabajo eficientes, capacitar al personal de cocina y eliminar situaciones de estrés mediante un diseño inteligente del menú.",
+        "highlights": ["Optimización de flujos", "Capacitación", "Higiene & HACCP"]
+      },
+      {
+        "title": "Pop-up Events & Catering",
+        "description": "Desde noches suizas hasta cenas pop-up alpinas. Experiencia con grandes eventos, catering corporativo y experiencias exclusivas de cenas privadas.",
+        "highlights": ["Eventos corporativos", "Cenas privadas", "Noches suizas"]
+      },
+      {
+        "title": "Desarrollo de productos artesanales",
+        "description": "Queso, charcutería, panadería, yogur, mermeladas, salsas — todo artesanal y desde cero. Desarrollo de productos hasta su comercialización.",
+        "highlights": ["Quesería", "Panadería", "Ahumados"]
+      },
+      {
+        "title": "Chef sustituto & Reemplazo",
+        "description": "Disponible a corto plazo como chef experimentado para emergencias, refuerzo estacional o reemplazo de vacaciones. Integración rápida garantizada.",
+        "highlights": ["Listo de inmediato", "Refuerzo estacional", "Reemplazo vacacional"]
+      }
+    ],
+    "approach": {
+      "title": "Mi método de trabajo",
+      "firstWeek": "En la primera semana",
+      "firstWeekText": "me pongo manos a la obra — desde la oficina del chef hasta la estación de lavado. Observo los procesos de producción y operación, analizo flujos de trabajo y conozco la organización desde la base.",
+      "stressText": "Cuando las situaciones de estrés son excesivas, hay que optimizar los procesos — no el personal. A menudo, ajustes inteligentes en el menú son suficientes para reducir la presión en cocina de forma sostenible y garantizar calidad y consistencia.",
+      "profitNiches": "Encuentro nichos de ganancia",
+      "profitNichesText": "que otros pasan por alto: En un día lluvioso en los Alpes sin clientes, produzco barras energéticas de granola para excursionistas o kombucha — ingresos adicionales con recursos existentes.",
+      "menuDev": "Desarrollo de menú:",
+      "menuDevText": "Local primero, fresco primero, estacional primero, calidad primero. Recorro bosques y praderas alpinas, recolectando bayas silvestres y tomillo de montaña para mi cocina."
+    }
+  },
+  "experience": {
+    "title": "Mi Trayectoria",
+    "subtitle": "Desde las cocinas de hoteles de Lausana pasando por California y Colombia — de vuelta a Suiza."
+  },
+  "gallery": {
+    "title": "Mis Creaciones",
+    "subtitle": "Desde queso artesanal hasta Selva Negra y Spätzle tricolor — todo desde cero.",
+    "categories": {
+      "all": "Todos",
+      "dishes": "Platos",
+      "bakery": "Panadería & Postres",
+      "charcuterie": "Charcutería",
+      "cheese": "Queso",
+      "products": "Productos",
+      "restaurant": "Restaurante & Eventos"
+    }
+  },
+  "credentials": {
+    "title": "Calificaciones & Referencias",
+    "subtitle": "Calificaciones federales suizas, diplomas internacionales y referencias de primera categoría.",
+    "diplomas": "Diplomas & Certificados",
+    "references": "Certificados laborales & Recomendaciones"
+  },
+  "contact": {
+    "title": "Contacto",
+    "subtitle": "Hablemos de sus necesidades — sin compromiso y sin complicaciones.",
+    "email": "Correo",
+    "whatsapp": "WhatsApp",
+    "whatsappText": "Enviar mensaje directo",
+    "availability": "Disponible desde agosto 2026",
+    "availabilityText": "Compromisos estacionales & temporales",
+    "location": "Toda Suiza — también disponible mundialmente",
+    "locationText": "Flexible con camper propio — sin necesidad de alojamiento",
+    "whyTitle": "¿Por qué Marcus Lauer?",
+    "benefits": [
+      "Sin necesidad de alojamiento — camper propio",
+      "Listo de inmediato — integración rápida",
+      "4 idiomas: DE, EN, FR, ES",
+      "Certificado de chef + MBA = Gastronomía y gestión",
+      "40+ años de experiencia internacional",
+      "Ideal para temporada, reemplazo o asesoría"
+    ],
+    "ctaTitle": "¿Listo para conversar?",
+    "ctaText": "Ya sea refuerzo estacional, proyecto de asesoría o reemplazo de emergencia — escríbame y encontraremos la solución adecuada.",
+    "ctaButton": "Contácteme"
+  },
+  "footer": {
+    "tagline": "Chef suizo & Consultor culinario.",
+    "tagline2": "40 años de experiencia — Tres continentes — Una pasión.",
+    "navigation": "Navegación",
+    "contactTitle": "Contacto",
+    "available": "Disponible desde agosto 2026",
+    "availableText": "En toda Suiza con camper propio",
+    "rights": "Todos los derechos reservados.",
+    "backToTop": "Volver arriba"
+  }
+}
