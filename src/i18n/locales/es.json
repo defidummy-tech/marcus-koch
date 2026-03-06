@@ -91,7 +91,64 @@
   },
   "experience": {
     "title": "Mi Trayectoria",
-    "subtitle": "Desde las cocinas de hoteles de Lausana pasando por California y Colombia — de vuelta a Suiza."
+    "subtitle": "Desde las cocinas de hoteles de Lausana pasando por California y Colombia — de vuelta a Suiza.",
+    "items": [
+      {
+        "year": "1984–1987",
+        "title": "Aprendizaje de cocinero — Hotel de la Paix, Lausana",
+        "description": "Aprendizaje de tres años con obtención del Certificado Federal Suizo (Koch EFZ). Práctica en alta gastronomía y cocina internacional. Además: Certificat d'Économie, École Lémania (1986)."
+      },
+      {
+        "year": "1987",
+        "title": "Cocinero — Ejército suizo",
+        "description": "Preparación de comidas en condiciones militares. Enfoque en eficiencia, logística y calidad en alimentación colectiva."
+      },
+      {
+        "year": "1987–1989",
+        "title": "Cocinero & Supervisor de bebidas — Anaheim Hilton & Towers, California",
+        "description": "Hotel más grande del sur de California: 1.600 habitaciones, hasta 8.000 huéspedes diarios. Trabajo en todos los departamentos de cocina (francés, italiano, mexicano). Ascenso a Supervisor de bebidas: responsable de 5 bares/restaurantes, 45 empleados, USD 3,5 millones de facturación anual."
+      },
+      {
+        "year": "1989–1994",
+        "title": "BSc & MBA — University of Central Florida, Orlando",
+        "description": "Bachelor of Science en Administración de Empresas (mayo 1993, Summa Cum Laude, Top 2%, beca) y Master of Business Administration (diciembre 1994). Especialidades: finanzas, gestión empresarial, marketing, análisis financiero. Paralelamente: prácticas en Accent Consulting Group y U.S. Small Business Administration — incluyendo planes de negocio para empresas gastronómicas."
+      },
+      {
+        "year": "1995",
+        "title": "Assistant Manager — Taco Bell (PepsiCo), Orlando",
+        "description": "Gestión de un establecimiento de comida rápida con USD 750.000 de facturación anual. Responsable de gestión de personal, control de inventario y relaciones con clientes."
+      },
+      {
+        "year": "1995–1998",
+        "title": "Gerente General & Desarrollo de productos — Florida",
+        "description": "Newquest Ltd. (1995–1996): Dirección de una startup de internet — finanzas, informática, marketing. American Executive Centers (1996–1998): Desarrollo y lanzamiento de un proyecto de internet multimillonario, apoyo al director financiero en reportes y emisión de acciones."
+      },
+      {
+        "year": "1998–2004",
+        "title": "Harvest Soaps — Empresa propia, Florida",
+        "description": "Fundación y gestión de una empresa familiar de jabones naturales artesanales con venta por comercio electrónico. Responsable de planificación comercial, producción, finanzas, marketing y ventas en línea. Construcción de una marca desde cero."
+      },
+      {
+        "year": "2004–2007",
+        "title": "MinCafé — Tostadero de café, Minca (Sierra Nevada, Colombia)",
+        "description": "Llegada a Colombia a través de una escuela de kitesurf en Cartagena. Desarrollo de una marca de café de especialidad con tostado innovador a carbón en cooperación con agricultores locales. Además: vinagre de mango, frutas deshidratadas, licores. Trabajo pionero en una región controlada por fuerzas paramilitares."
+      },
+      {
+        "year": "2007–2014",
+        "title": "Casa Suiza — Restaurante propio, Cartagena",
+        "description": "Fundación y gestión de un restaurante de cocina fusión suiza. Spätzle en todas sus variaciones como éxito de ventas, pan fresco diario con mantequilla de hierbas, Basler Läckerli y Magenbrot con el café. Calidad suiza para huéspedes colombianos e internacionales. Reorientación hacia la producción de alimentos para otros establecimientos gastronómicos."
+      },
+      {
+        "year": "2014–2025",
+        "title": "Manufactura alimentaria artesanal — Medellín & Guarne",
+        "description": "Producción de quesos (Gouda, Feta, Brie, Azul, Halloumi, Belper Knollen, Mozzarella, Provolone), productos de panadería, ahumados con madera de aguacate, yogur y mermeladas. Desde 2018: propia producción lechera con vacas Jersey para óptima calidad de leche. Proveedor principal de feta y yogur griego para los restaurantes griegos de Medellín."
+      },
+      {
+        "year": "2026",
+        "title": "Regreso a Suiza",
+        "description": "Listo para nuevos desafíos. Disponible desde agosto 2026 para compromisos estacionales y temporales en toda Suiza — con camper propio, sin necesidad de alojamiento."
+      }
+    ]
   },
   "gallery": {
     "title": "Mis Creaciones",

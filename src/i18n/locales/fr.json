@@ -91,7 +91,64 @@
   },
   "experience": {
     "title": "Mon Parcours",
-    "subtitle": "Des cuisines d'hôtels lausannois en passant par la Californie et la Colombie — retour en Suisse."
+    "subtitle": "Des cuisines d'hôtels lausannois en passant par la Californie et la Colombie — retour en Suisse.",
+    "items": [
+      {
+        "year": "1984–1987",
+        "title": "Apprentissage de cuisinier — Hôtel de la Paix, Lausanne",
+        "description": "Apprentissage de trois ans avec obtention du Certificat fédéral de capacité (CFC de cuisinier). Pratique en gastronomie fine et cuisine internationale. En complément : Certificat d'Économie, École Lémania (1986)."
+      },
+      {
+        "year": "1987",
+        "title": "Cuisinier — Armée suisse",
+        "description": "Préparation de repas en conditions militaires. Accent sur l'efficacité, la logistique et la qualité en restauration collective."
+      },
+      {
+        "year": "1987–1989",
+        "title": "Cuisinier & Superviseur des boissons — Anaheim Hilton & Towers, Californie",
+        "description": "Plus grand hôtel du sud de la Californie : 1 600 chambres, jusqu'à 8 000 convives par jour. Travail dans tous les départements de cuisine (français, italien, mexicain). Promotion au poste de Superviseur des boissons : responsable de 5 bars/restaurants, 45 employés, 3,5 millions USD de chiffre d'affaires annuel."
+      },
+      {
+        "year": "1989–1994",
+        "title": "BSc & MBA — University of Central Florida, Orlando",
+        "description": "Bachelor of Science en administration des affaires (mai 1993, Summa Cum Laude, Top 2%, bourse) et Master of Business Administration (décembre 1994). Spécialités : finance, gestion d'entreprise, marketing, analyse financière. En parallèle : stages chez Accent Consulting Group et U.S. Small Business Administration — notamment des plans d'affaires pour des entreprises de restauration."
+      },
+      {
+        "year": "1995",
+        "title": "Assistant Manager — Taco Bell (PepsiCo), Orlando",
+        "description": "Gestion d'un établissement de restauration rapide avec un chiffre d'affaires annuel de 750 000 USD. Responsable de la gestion du personnel, du contrôle des stocks et des relations clients."
+      },
+      {
+        "year": "1995–1998",
+        "title": "Directeur général & Développement de produits — Floride",
+        "description": "Newquest Ltd. (1995–1996) : Direction d'une startup internet — finances, informatique, marketing. American Executive Centers (1996–1998) : Développement et lancement d'un projet internet de plusieurs millions de dollars, soutien au directeur financier pour le reporting et les émissions d'actions."
+      },
+      {
+        "year": "1998–2004",
+        "title": "Harvest Soaps — Entreprise personnelle, Floride",
+        "description": "Création et gestion d'une entreprise familiale de savons naturels artisanaux avec vente en ligne. Responsable de la planification commerciale, de la production, des finances, du marketing et de la vente en ligne. Construction d'une marque à partir de zéro."
+      },
+      {
+        "year": "2004–2007",
+        "title": "MinCafé — Torréfaction de café, Minca (Sierra Nevada, Colombie)",
+        "description": "Arrivée en Colombie via une école de kitesurf à Carthagène. Développement d'une marque de café de spécialité avec une torréfaction innovante au charbon de bois en coopération avec des producteurs locaux. En complément : vinaigre de mangue, fruits séchés, spiritueux. Travail pionnier dans une région contrôlée par des forces paramilitaires."
+      },
+      {
+        "year": "2007–2014",
+        "title": "Casa Suiza — Restaurant personnel, Carthagène",
+        "description": "Création et gestion d'un restaurant de cuisine fusion suisse. Spätzle en toutes variations comme best-seller, pain frais quotidien avec beurre aux herbes, Basler Läckerli et Magenbrot avec le café. Qualité suisse pour une clientèle colombienne et internationale. Réorientation vers la production alimentaire pour d'autres établissements gastronomiques."
+      },
+      {
+        "year": "2014–2025",
+        "title": "Manufacture alimentaire artisanale — Medellín & Guarne",
+        "description": "Production de fromages (Gouda, Feta, Brie, Bleu, Halloumi, Belper Knollen, Mozzarella, Provolone), produits de boulangerie, charcuterie fumée au bois d'avocatier, yaourt et confitures. Dès 2018 : propre exploitation laitière avec des vaches Jersey pour une qualité de lait optimale. Fournisseur principal de feta et yaourt grec pour les restaurants grecs de Medellín."
+      },
+      {
+        "year": "2026",
+        "title": "Retour en Suisse",
+        "description": "Prêt pour de nouveaux défis. Disponible dès août 2026 pour des engagements saisonniers et temporaires dans toute la Suisse — avec camping-car personnel, sans besoin de logement."
+      }
+    ]
   },
   "gallery": {
     "title": "Mes Créations",

@@ -91,7 +91,64 @@
   },
   "experience": {
     "title": "My Career",
-    "subtitle": "From Lausanne's hotel kitchens via California and Colombia — back to Switzerland."
+    "subtitle": "From Lausanne's hotel kitchens via California and Colombia — back to Switzerland.",
+    "items": [
+      {
+        "year": "1984–1987",
+        "title": "Chef Apprenticeship — Hotel de la Paix, Lausanne",
+        "description": "Three-year apprenticeship with Swiss Federal Certificate (Koch EFZ). Practice in fine dining and international cuisine. Additionally: Certificat d'Économie, École Lémania (1986)."
+      },
+      {
+        "year": "1987",
+        "title": "Cook — Swiss Army",
+        "description": "Preparing meals under military conditions. Focus on efficiency, logistics, and quality in large-scale catering."
+      },
+      {
+        "year": "1987–1989",
+        "title": "Cook & Beverage Supervisor — Anaheim Hilton & Towers, California",
+        "description": "Largest hotel in Southern California: 1,600 rooms, up to 8,000 guests daily. Worked across all kitchen departments (French, Italian, Mexican). Promoted to Beverage Supervisor: responsible for 5 bars/restaurants, 45 staff, USD 3.5M annual revenue."
+      },
+      {
+        "year": "1989–1994",
+        "title": "BSc & MBA — University of Central Florida, Orlando",
+        "description": "Bachelor of Science in Business Administration (May 1993, Summa Cum Laude, Top 2%, Scholarship) and Master of Business Administration (December 1994). Focus: Finance, Management, Marketing, Financial Analysis. Concurrent: Internships at Accent Consulting Group and U.S. Small Business Administration — including business plans for restaurant ventures."
+      },
+      {
+        "year": "1995",
+        "title": "Assistant Manager — Taco Bell (PepsiCo), Orlando",
+        "description": "Managing a fast-food operation with USD 750,000 annual revenue. Responsible for staff management, inventory control, and customer relations."
+      },
+      {
+        "year": "1995–1998",
+        "title": "General Manager & Product Development — Florida",
+        "description": "Newquest Ltd. (1995–1996): Managing an internet startup — finance, IT, marketing. American Executive Centers (1996–1998): Development and launch of a multi-million dollar internet project, supporting the CFO with financial reporting and stock issuance."
+      },
+      {
+        "year": "1998–2004",
+        "title": "Harvest Soaps — Own Business, Florida",
+        "description": "Founded and managed a family business producing artisanal natural soaps with e-commerce distribution. Responsible for business planning, production, finance, marketing, and online sales. Built a brand from scratch."
+      },
+      {
+        "year": "2004–2007",
+        "title": "MinCafé — Coffee Roastery, Minca (Sierra Nevada, Colombia)",
+        "description": "Arrived in Colombia via a kitesurfing school in Cartagena. Developed a specialty coffee brand with innovative charcoal roasting in cooperation with local farmers. Additionally: mango vinegar, dried fruits, spirits. Pioneer work in a region controlled by paramilitary forces."
+      },
+      {
+        "year": "2007–2014",
+        "title": "Casa Suiza — Own Restaurant, Cartagena",
+        "description": "Founded and managed a Swiss fusion restaurant. Spätzle in all variations as bestseller, daily fresh bread with herb butter, Basler Läckerli and Magenbrot with coffee. Swiss quality for Colombian and international guests. Pivoted to food production for other hospitality businesses."
+      },
+      {
+        "year": "2014–2025",
+        "title": "Artisanal Food Manufacturing — Medellín & Guarne",
+        "description": "Production of cheese (Gouda, Feta, Brie, Blue, Halloumi, Belper Knollen, Mozzarella, Provolone), baked goods, smoked meats with avocado wood, yogurt, and jams. From 2018: Own dairy farm with Jersey cows for optimal milk quality. Primary supplier of feta and Greek yogurt to Greek restaurants in Medellín."
+      },
+      {
+        "year": "2026",
+        "title": "Return to Switzerland",
+        "description": "Ready for new challenges. Available from August 2026 for seasonal and temporary engagements across all of Switzerland — with own camper van, no accommodation needed."
+      }
+    ]
   },
   "gallery": {
     "title": "My Creations",

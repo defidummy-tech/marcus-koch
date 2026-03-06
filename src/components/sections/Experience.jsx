@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 import Section, { SectionTitle } from "../layout/Section";
-import { experience } from "../../data/experience";
+import { experience as experienceData } from "../../data/experience";
 
 const typeColors = {
   culinary: "bg-forest text-white",
@@ -77,6 +77,15 @@ function TimelineItem({ item, index, isLast }) {
 
 export default function Experience() {
   const { t } = useTranslation();
+  const translatedItems = t("experience.items", { returnObjects: true });
+
+  // Merge translated text with static data (type, image) from experience.js
+  const experience = translatedItems.map((item, i) => ({
+    ...item,
+    type: experienceData[i]?.type || "culinary",
+    image: experienceData[i]?.image,
+  }));
+
   return (
     <Section id="experience">
       <SectionTitle subtitle={t("experience.subtitle")}>
