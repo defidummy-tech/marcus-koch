@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+dist/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Original raw photo/document folders (not needed in repo)
+fotos/
+marcus-diplome/
+
+# Claude config
+.claude/
+
+# Misc
+*.log
+npm-debug.log*
+Unconfirmed*
+*.crdownload
