@@ -10,10 +10,10 @@
     "availBadgeMobile": "Available from August 2026"
   },
   "hero": {
-    "badge": "Available from August 2026 — Switzerland & worldwide",
+    "badge": "Available from August 2026, Switzerland & worldwide",
     "subtitle": "Swiss Executive Chef & Culinary Consultant",
-    "tagline1": "Four decades of experience. Three continents. One passion:",
-    "tagline2": "Artisan cuisine from fresh, natural ingredients — from scratch.",
+    "tagline1": "Four decades of experience. Three continents. Two talented hands. One passion:",
+    "tagline2": "Artisan cuisine from fresh, natural ingredients, from scratch.",
     "ctaContact": "Get in touch",
     "ctaGallery": "My Creations",
     "stats": {
@@ -26,22 +26,22 @@
   "about": {
     "title": "About Me",
     "subtitle": "Chef by passion, entrepreneur by conviction",
-    "p1": "I am a classically trained Swiss chef — apprenticed at the <strong>Hotel de la Paix in Lausanne</strong>, shaped by the large-scale kitchens of the <strong>Anaheim Hilton</strong> in California, and honed over 20 years as an entrepreneur in Colombia.",
-    "p2": "In Cartagena I founded <strong>Restaurante Casa Suiza</strong> — Swiss fusion cuisine with daily fresh bread, Basler Läckerli with coffee, and Spätzle as the bestseller. Later I built a complete food manufacturing operation: cheese, yogurt, charcuterie, baked goods — all artisanal and from scratch.",
-    "p3": "When the milk quality wasn't good enough, I bought my <strong>own Jersey cows</strong> — for higher protein and fat content. I roasted coffee over charcoal in the Sierra Nevada, smoked meats with avocado wood, and aged blue cheese in the Andes. Now I'm bringing this experience back to Switzerland.",
+    "p1": "I am a classically trained Swiss chef, apprenticed at the <strong>Hotel de la Paix in Lausanne</strong>, shaped by the large-scale kitchens of the <strong>Anaheim Hilton</strong> in California, and honed over 20 years as an entrepreneur in Colombia.",
+    "p2": "In Cartagena I founded <strong>Restaurante Casa Suiza</strong>: Swiss fusion cuisine with daily fresh bread, Basler Läckerli with coffee, and Spätzle as the bestseller. Later I built a complete food manufacturing operation: cheese, yogurt, charcuterie, baked goods, all artisanal and from scratch.",
+    "p3": "I roasted coffee over charcoal in the Sierra Nevada, smoked meats with avocado wood, and aged blue cheese in the Andes. Now I'm bringing this experience back to Switzerland.",
     "highlights": {
       "efz": "Swiss Federal Chef Certificate (Koch EFZ)",
       "mba": "MBA & BSc (Summa Cum Laude, Top 2%)",
       "years": "40+ years of international experience",
       "languages": "Deutsch · English · Français · Español",
       "continents": "Switzerland · USA · Colombia",
-      "camper": "Own camper van — flexible across Switzerland"
+      "camper": "Own camper van, flexible across Switzerland"
     },
     "usp": {
       "label": "Your Advantage",
-      "text": "<strong>No accommodation needed.</strong> I bring my own camper van and am flexibly deployable across all of Switzerland — for seasonal or temporary engagements, with zero logistics on your end."
+      "text": "<strong>No accommodation needed.</strong> I bring my own camper van and am flexibly deployable across all of Switzerland, for seasonal or temporary engagements, with zero logistics on your end."
     },
-    "imgAlt": "Marcus Lauer — Swiss Executive Chef"
+    "imgAlt": "Marcus Lauer,Swiss Executive Chef"
   },
   "services": {
     "title": "My Services",
@@ -49,17 +49,17 @@
     "items": [
       {
         "title": "Menu Development & Consulting",
-        "description": "Seasonal menu concepts developed from scratch. Local, fresh, sustainable — from Alpine wild herbs to classic Swiss dishes.",
+        "description": "Seasonal menu concepts developed from scratch. Local, fresh, sustainable: from Alpine wild herbs to classic Swiss dishes.",
         "highlights": ["Seasonal Concepts", "From Scratch", "Local Ingredients"]
       },
       {
         "title": "Food Cost Optimization",
-        "description": "With an MBA and 30 years of entrepreneurial experience, I analyze purchasing, portioning, and workflows — for maximum profitability without compromising quality.",
+        "description": "With an MBA and 30 years of entrepreneurial experience, I analyze purchasing, portioning, and workflows, for maximum profitability without compromising quality.",
         "highlights": ["Cost Analysis", "Procurement Optimization", "Profit Growth"]
       },
       {
         "title": "Staff Training & Kitchen Organization",
-        "description": "Establish efficient workflows, train kitchen staff, and eliminate stress situations through smart menu design — not manage them.",
+        "description": "Establish efficient workflows, train kitchen staff, and eliminate stress situations through smart menu design.",
         "highlights": ["Workflow Optimization", "Team Training", "Hygiene & HACCP"]
       },
       {
@@ -69,7 +69,7 @@
       },
       {
         "title": "Artisanal Product Development",
-        "description": "Cheese, charcuterie, baked goods, yogurt, jams, sauces — all artisanal and from scratch. Product development to market readiness.",
+        "description": "Cheese, charcuterie, baked goods, yogurt, jams, sauces, all artisanal and from scratch. Product development to market readiness.",
         "highlights": ["Cheese Making", "Bakery", "Smoked Goods"]
       },
       {
@@ -80,87 +80,118 @@
     ],
     "approach": {
       "title": "My Approach",
-      "firstWeek": "In the first week",
-      "firstWeekText": "I get my hands dirty — from the chef's office to the dishwashing station. I observe production and operational processes, analyze workflows, and learn the organization from the ground up.",
-      "stressText": "When stress situations occur excessively, workflows need to be optimized — not the staff. Often, smart menu adjustments are enough to sustainably reduce kitchen pressure while ensuring quality and consistency.",
+      "firstWeek": "From the first week",
+      "firstWeekText": "I get my hands dirty: from the chef's office to the dishwashing station. I observe production and operational processes, analyze workflows, and learn the organization from the ground up.",
+      "stressText": "When stress situations occur excessively, workflows need to be optimized. Often, smart menu adjustments are enough to sustainably reduce kitchen pressure while ensuring quality and consistency.",
       "profitNiches": "I find profit niches",
-      "profitNichesText": "that others overlook: On a rainy day in the Alps with no guests, I produce granola energy bars for hikers or kombucha as a refreshment — additional revenue from existing resources.",
+      "profitNichesText": "that others overlook: On a rainy day in the Alps with no guests, I produce granola energy bars for hikers or kombucha as a refreshment. I generate additional revenue from existing resources.",
       "menuDev": "Menu development:",
-      "menuDevText": "Local first, fresh first, seasonal first, quality first. I hike through forests and Alpine meadows, gathering wild berries and mountain thyme for my kitchen."
+      "menuDevText": "Local first, fresh first, seasonal first, quality first. In my free time I enjoy hiking through forests and Alpine meadows, gathering wild berries and mountain herbs for my kitchen."
     }
   },
   "experience": {
     "title": "My Career",
-    "subtitle": "From Lausanne's hotel kitchens via California and Colombia — back to Switzerland.",
+    "subtitle": "From Lausanne's hotel kitchens via California and Colombia, back to Switzerland.",
     "items": [
       {
         "year": "1984–1987",
-        "title": "Chef Apprenticeship — Hotel de la Paix, Lausanne",
+        "title": "Chef Apprenticeship,Hotel de la Paix, Lausanne",
         "description": "Three-year apprenticeship with Swiss Federal Certificate (Koch EFZ). Practice in fine dining and international cuisine. Additionally: Certificat d'Économie, École Lémania (1986)."
       },
       {
         "year": "1987",
-        "title": "Cook — Swiss Army",
-        "description": "Preparing meals under military conditions. Focus on efficiency, logistics, and quality in large-scale catering."
+        "title": "Cook,Swiss Army",
+        "description": "Preparing meals under military conditions. Focus on efficiency, logistics, and quality in large-scale catering. Shortly after, I was promoted to the officers' kitchen where I had the pleasure of managing an independent budget for the procurement and catering of the officers."
       },
       {
         "year": "1987–1989",
-        "title": "Cook & Beverage Supervisor — Anaheim Hilton & Towers, California",
+        "title": "Cook & Beverage Supervisor,Anaheim Hilton & Towers, California",
         "description": "Largest hotel in Southern California: 1,600 rooms, up to 8,000 guests daily. Worked across all kitchen departments (French, Italian, Mexican). Promoted to Beverage Supervisor: responsible for 5 bars/restaurants, 45 staff, USD 3.5M annual revenue."
       },
       {
         "year": "1989–1994",
-        "title": "BSc & MBA — University of Central Florida, Orlando",
-        "description": "Bachelor of Science in Business Administration (May 1993, Summa Cum Laude, Top 2%, Scholarship) and Master of Business Administration (December 1994). Focus: Finance, Management, Marketing, Financial Analysis. Concurrent: Internships at Accent Consulting Group and U.S. Small Business Administration — including business plans for restaurant ventures."
+        "title": "BSc & MBA,University of Central Florida, Orlando",
+        "description": "Bachelor of Science in Business Administration (May 1993, Summa Cum Laude, Top 2%, Scholarship) and Master of Business Administration (December 1994). Focus: Finance, Management, Marketing, Financial Analysis. Concurrent: Internships at Accent Consulting Group and U.S. Small Business Administration, including business plans for restaurant ventures."
       },
       {
         "year": "1995",
-        "title": "Assistant Manager — Taco Bell (PepsiCo), Orlando",
-        "description": "Managing a fast-food operation with USD 750,000 annual revenue. Responsible for staff management, inventory control, and customer relations."
+        "title": "Assistant Manager,Taco Bell (PepsiCo), Orlando",
+        "description": "Co-responsible for managing a fast-food operation with USD 750,000 annual revenue. Responsible for staff management, inventory control, and customer relations."
       },
       {
         "year": "1995–1998",
-        "title": "General Manager & Product Development — Florida",
-        "description": "Newquest Ltd. (1995–1996): Managing an internet startup — finance, IT, marketing. American Executive Centers (1996–1998): Development and launch of a multi-million dollar internet project, supporting the CFO with financial reporting and stock issuance."
+        "title": "General Manager & Product Development,Florida",
+        "description": "Newquest Ltd. (1995–1996): Managing an internet startup (finance, IT, marketing). American Executive Centers (1996–1998): Development and launch of a multi-million dollar internet project, supporting the CFO with financial reporting and stock issuance."
       },
       {
         "year": "1998–2004",
-        "title": "Harvest Soaps — Own Business, Florida",
+        "title": "Harvest Soaps,Own Business, Florida",
         "description": "Founded and managed a family business producing artisanal natural soaps with e-commerce distribution. Responsible for business planning, production, finance, marketing, and online sales. Built a brand from scratch."
       },
       {
         "year": "2004–2007",
-        "title": "MinCafé — Coffee Roastery, Minca (Sierra Nevada, Colombia)",
-        "description": "Arrived in Colombia via a kitesurfing school in Cartagena. Developed a specialty coffee brand with innovative charcoal roasting in cooperation with local farmers. Additionally: mango vinegar, dried fruits, spirits. Pioneer work in a region controlled by paramilitary forces."
+        "title": "MinCafé,Coffee Roastery, Minca (Sierra Nevada, Colombia)",
+        "description": "Arrived in Colombia. Developed a specialty coffee brand with innovative charcoal roasting in cooperation with local farmers. Additionally: mango vinegar, dried fruits, spirits. Pioneer work in a region controlled by paramilitary forces."
       },
       {
         "year": "2007–2014",
-        "title": "Casa Suiza — Own Restaurant, Cartagena",
+        "title": "Casa Suiza,Own Restaurant, Cartagena",
         "description": "Founded and managed a Swiss fusion restaurant. Spätzle in all variations as bestseller, daily fresh bread with herb butter, Basler Läckerli and Magenbrot with coffee. Swiss quality for Colombian and international guests. Pivoted to food production for other hospitality businesses."
       },
       {
         "year": "2014–2025",
-        "title": "Artisanal Food Manufacturing — Medellín & Guarne",
+        "title": "Artisanal Food Manufacturing,Medellín & Guarne",
         "description": "Production of cheese (Gouda, Feta, Brie, Blue, Halloumi, Belper Knollen, Mozzarella, Provolone), baked goods, smoked meats with avocado wood, yogurt, and jams. From 2018: Own dairy farm with Jersey cows for optimal milk quality. Primary supplier of feta and Greek yogurt to Greek restaurants in Medellín."
       },
       {
         "year": "2026",
         "title": "Return to Switzerland",
-        "description": "Ready for new challenges. Available from August 2026 for seasonal and temporary engagements across all of Switzerland — with own camper van, no accommodation needed."
+        "description": "Ready for new challenges. Available from August 2026 for seasonal and temporary engagements across all of Switzerland, with own camper van, no accommodation needed."
       }
     ]
   },
   "gallery": {
     "title": "My Creations",
-    "subtitle": "From artisan cheese to Black Forest cake to tricolor Spätzle — everything from scratch.",
-    "categories": {
-      "all": "All",
-      "dishes": "Dishes",
-      "bakery": "Baked Goods & Desserts",
-      "charcuterie": "Charcuterie",
-      "cheese": "Cheese",
-      "products": "Products",
-      "restaurant": "Restaurant & Events"
+    "subtitle": "Over 40 years of culinary craftsmanship, from the restaurant to the cheese plant to catering events.",
+    "restaurant": {
+      "title": "Restaurant",
+      "intro": "Many years of restaurant experience. At the Hotel de la Paix in Lausanne and the Anaheim Hilton in California, I learned all about quality. At Taco Bell (PepsiCo) I learned how to work efficiently. In my own restaurant Casa Suiza in Cartagena, I successfully applied all of it.",
+      "story": "The concept of Casa Suiza was a fusion project. Swiss, European style food adapted for the Colombian taste. Spätzle in all its forms became a bestseller. My fresh baked bread toasted with herb butter was also very well appreciated by the clientele, as well as the baked goods and assorted products: Dijon style mustard, Bavarian sweet mustard, hot sauces, and more.",
+      "pivot": "I had to close the restaurant because the property owners claimed the locale. At the same time, an opportunity opened to continue my ventures in Medellín where I had a larger client base. I pivoted to food production, starting in Cartagena. My locale was small, and to increase sales I started focusing on producing for other gastro enterprises. I continued this approach when I moved to an avocado farm in Guarne, outside of Medellín."
+    },
+    "foodProduction": {
+      "title": "Food Production",
+      "cheese": {
+        "title": "Cheese Production",
+        "intro": "I love challenging projects. Cheese production caught my attention because of its complexity. I produced a large variety of dairy products from my own cows' milk. I wasn't content with the milk quality, so I purchased my own cows to control quality from the source to the table. Some people claimed I produced the best cheeses in Colombia.",
+        "varieties": "I made everything: from fruit yogurts with local fruits, Greek yogurt, cottage cheese, ricotta, blue cheese varieties, Brie, Feta, Halloumi, Belper Knollen, Gouda, Mozzarella to Provolone, including Provolone smoked with avocado wood. At one time I supplied the majority of Greek restaurants in Medellín with Feta and Greek yogurt.",
+        "learning": "Colombians are not very fond of strong, aged cheeses. My best sellers were Gouda to retail clients and Feta to commercial clients. I taught myself: first by speed reading through the most technical cheese manufacturing book. After that it was trial and error until I was happy with the product.",
+        "covid": "Before Covid I didn't have enough milk to make aged cheeses. But when all my restaurant clients had to close during quarantine, I lost 100% of my client source. My cows produced 100 liters of milk every day and I had no more clients. That's when I started making aged cheeses which took 1–3 months to mature. During the time the cheeses matured, I built a new distribution network and started selling aged cheeses to retail clients.",
+        "cows": "I started with five Jersey cows. They don't provide as much milk as Holstein cows but the protein and fat content is a lot higher. It was a steep learning curve but I am a fast and inquisitive learner. After getting more cows I ran out of pasture and started feeding them carpets of germinated corn. It increased the milk quality and quantity significantly, at the same time reducing the whey that needed to be discarded. By the way, I had chickens and pigs, and the whey went to those animals.",
+        "cowsCaption": "Jersey cows produce some of the best milk for dairy production. Feeding them with corn sprouts increased the quality of the milk even more.",
+        "processingCaption": "Processing the milk in the cheese plant and cutting the curds",
+        "resultsCaption": "The results"
+      },
+      "yogurt": {
+        "title": "Fruit & Greek Yogurt",
+        "caption": "A line of fruit and Greek yogurt products"
+      },
+      "charcuterie": {
+        "title": "Smoked & Dried Meats",
+        "intro": "Throughout the years I experimented with cold- and hot-smoked and dried meats. Anything from Coppa, Parma Ham, Salami, various hams to Bündnerfleisch was created. Since I was living on an avocado farm, I used avocado wood to smoke the meat and cheeses."
+      },
+      "bakery": {
+        "title": "Baked Goods",
+        "intro": "My bakery skills are extensive. All types of breads, pretzels, cakes, Marzipan Biberli (with self-made marzipan), Magenbrot, Basler Läckerli, Christmas cookies, Stollen: it's all in my portfolio."
+      }
+    },
+    "events": {
+      "title": "Events",
+      "intro": "Provided the food for countless events: weddings, corporate events, and trade fairs. In Cartagena I cooked for prestigious events like receptions at the Swiss Consulate, and special events for Aramark/Drummond Mining in Colombia."
+    },
+    "misc": {
+      "title": "Miscellaneous Food Projects",
+      "intro": "In Colombia I specialized in producing European food products that were either not available or expensive imports. Sauerkraut, a line of hot sauces, three varieties of mustard, BBQ sauce, and much more were among them."
     }
   },
   "credentials": {
@@ -171,30 +202,30 @@
   },
   "contact": {
     "title": "Contact",
-    "subtitle": "Let's discuss your requirements — no obligation, no fuss.",
+    "subtitle": "Let's discuss your requirements, no obligation, no fuss.",
     "email": "Email",
     "whatsapp": "WhatsApp",
     "whatsappText": "Send a direct message",
     "availability": "Available from August 2026",
     "availabilityText": "Seasonal & temporary engagements",
-    "location": "All of Switzerland — also available worldwide",
-    "locationText": "Flexible with own camper van — no accommodation needed",
+    "location": "All of Switzerland, also available worldwide",
+    "locationText": "Flexible with own camper van, no accommodation needed",
     "whyTitle": "Why Marcus Lauer?",
     "benefits": [
-      "No accommodation needed — own camper van",
-      "Ready to start immediately — fast onboarding",
+      "No accommodation needed, own camper van",
+      "Ready to start immediately, fast onboarding",
       "4 languages: DE, EN, FR, ES",
       "Chef Certificate + MBA = Culinary meets Business",
       "40+ years of international experience",
       "Ideal for seasonal, relief, or consulting work"
     ],
     "ctaTitle": "Ready for a conversation?",
-    "ctaText": "Whether seasonal reinforcement, consulting project, or emergency replacement — write to me and we'll find the right solution.",
+    "ctaText": "Whether seasonal reinforcement, consulting project, or emergency replacement, write to me and we'll find the right solution.",
     "ctaButton": "Get in touch"
   },
   "footer": {
     "tagline": "Swiss Executive Chef & Culinary Consultant.",
-    "tagline2": "40 years of experience — Three continents — One passion.",
+    "tagline2": "40 years of experience. Three continents. One passion.",
     "navigation": "Navigation",
     "contactTitle": "Contact",
     "available": "Available from August 2026",

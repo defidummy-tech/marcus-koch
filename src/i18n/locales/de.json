@@ -10,10 +10,10 @@
     "availBadgeMobile": "Verfügbar ab August 2026"
   },
   "hero": {
-    "badge": "Verfügbar ab August 2026 — Schweizweit & weltweit",
+    "badge": "Verfügbar ab August 2026, schweizweit & weltweit",
     "subtitle": "Schweizer Küchenchef & Kulinarischer Berater",
-    "tagline1": "Vier Jahrzehnte Erfahrung. Drei Kontinente. Eine Leidenschaft:",
-    "tagline2": "Handwerkliche Küche aus frischen, natürlichen Zutaten — von Grund auf.",
+    "tagline1": "Vier Jahrzehnte Erfahrung. Drei Kontinente. Zwei talentierte Hände. Eine Leidenschaft:",
+    "tagline2": "Handwerkliche Küche aus frischen, natürlichen Zutaten, von Grund auf.",
     "ctaContact": "Kontaktieren Sie mich",
     "ctaGallery": "Meine Kreationen",
     "stats": {
@@ -26,22 +26,22 @@
   "about": {
     "title": "Über mich",
     "subtitle": "Koch aus Leidenschaft, Unternehmer aus Überzeugung",
-    "p1": "Ich bin ein Schweizer Küchenchef der alten Schule — gelernt am <strong>Hotel de la Paix in Lausanne</strong>, geprägt von der Grossküche des <strong>Anaheim Hilton</strong> in Kalifornien und über 20 Jahre geschärft als Unternehmer in Kolumbien.",
-    "p2": "In Cartagena gründete ich das <strong>Restaurante Casa Suiza</strong> — Swiss-Fusion-Küche mit täglich frischem Brot, Basler Läckerli zum Kaffee und Spätzli als Bestseller. Später baute ich eine komplette Lebensmittelmanufaktur auf: Käse, Joghurt, Charcuterie, Backwaren — alles handwerklich und von Grund auf.",
-    "p3": "Als mir die Milchqualität nicht genügte, kaufte ich <strong>eigene Jersey-Kühe</strong> — für höheren Protein- und Fettgehalt. Ich röstete Kaffee über Holzkohle in der Sierra Nevada, räucherte Fleisch mit Avocadoholz und reifte Blauschimmelkäse in den Anden. Jetzt bringe ich diese Erfahrung zurück in die Schweiz.",
+    "p1": "Ich bin ein Schweizer Küchenchef der alten Schule, gelernt am <strong>Hotel de la Paix in Lausanne</strong>, geprägt von der Grossküche des <strong>Anaheim Hilton</strong> in Kalifornien und über 20 Jahre geschärft als Unternehmer in Kolumbien.",
+    "p2": "In Cartagena gründete ich das <strong>Restaurante Casa Suiza</strong>: Swiss-Fusion-Küche mit täglich frischem Brot, Basler Läckerli zum Kaffee und Spätzli als Bestseller. Später baute ich eine komplette Lebensmittelmanufaktur auf: Käse, Joghurt, Charcuterie, Backwaren, alles handwerklich und von Grund auf.",
+    "p3": "Ich röstete Kaffee über Holzkohle in der Sierra Nevada, räucherte Fleisch mit Avocadoholz und reifte Blauschimmelkäse in den Anden. Jetzt bringe ich diese Erfahrung zurück in die Schweiz.",
     "highlights": {
-      "efz": "Koch EFZ — Eidgenössischer Fachausweis",
+      "efz": "Koch EFZ (Eidgenössischer Fachausweis)",
       "mba": "MBA & BSc (Summa Cum Laude, Top 2%)",
       "years": "40+ Jahre internationale Berufserfahrung",
       "languages": "Deutsch · English · Français · Español",
       "continents": "Schweiz · USA · Kolumbien",
-      "camper": "Eigener Camper-Van — schweizweit flexibel"
+      "camper": "Eigener Camper-Van, schweizweit flexibel"
     },
     "usp": {
       "label": "Ihr Vorteil",
-      "text": "<strong>Unterkunft nicht nötig.</strong> Ich bringe meinen eigenen Camper-Van mit und bin flexibel in der ganzen Schweiz einsetzbar — für saisonale oder temporäre Engagements, ohne Logistikaufwand für Sie."
+      "text": "<strong>Unterkunft nicht nötig.</strong> Ich bringe meinen eigenen Camper-Van mit und bin flexibel in der ganzen Schweiz einsetzbar, für saisonale oder temporäre Engagements, ohne Logistikaufwand für Sie."
     },
-    "imgAlt": "Marcus Lauer — Schweizer Küchenchef"
+    "imgAlt": "Marcus Lauer, Schweizer Küchenchef"
   },
   "services": {
     "title": "Meine Leistungen",
@@ -49,17 +49,17 @@
     "items": [
       {
         "title": "Menüentwicklung & Beratung",
-        "description": "Saisonale Menükonzepte von Grund auf entwickelt. Lokal, frisch, nachhaltig — mit Wildkräutern von der Alp bis zu klassischen Schweizer Gerichten.",
+        "description": "Saisonale Menükonzepte von Grund auf entwickelt. Lokal, frisch, nachhaltig: mit Wildkräutern von der Alp bis zu klassischen Schweizer Gerichten.",
         "highlights": ["Saisonale Konzepte", "Von Grund auf", "Lokale Zutaten"]
       },
       {
         "title": "Food Cost Optimierung",
-        "description": "Mit MBA und 30 Jahren Unternehmererfahrung analysiere ich Einkauf, Portionierung und Arbeitsabläufe — für maximale Rentabilität ohne Qualitätsverlust.",
+        "description": "Mit MBA und 30 Jahren Unternehmererfahrung analysiere ich Einkauf, Portionierung und Arbeitsabläufe, für maximale Rentabilität ohne Qualitätsverlust.",
         "highlights": ["Kostenanalyse", "Einkaufsoptimierung", "Gewinnsteigerung"]
       },
       {
         "title": "Mitarbeiterschulung & Küchenorganisation",
-        "description": "Effiziente Arbeitsabläufe etablieren, Küchenpersonal schulen und Stresssituationen durch kluge Menügestaltung eliminieren — nicht managen.",
+        "description": "Effiziente Arbeitsabläufe etablieren, Küchenpersonal schulen und Stresssituationen durch kluge Menügestaltung eliminieren.",
         "highlights": ["Workflow-Optimierung", "Team-Training", "Hygiene & HACCP"]
       },
       {
@@ -69,7 +69,7 @@
       },
       {
         "title": "Handwerkliche Produktentwicklung",
-        "description": "Käse, Charcuterie, Backwaren, Joghurt, Konfitüren, Saucen — alles handwerklich und von Grund auf. Produktentwicklung bis zur Marktreife.",
+        "description": "Käse, Charcuterie, Backwaren, Joghurt, Konfitüren, Saucen, alles handwerklich und von Grund auf. Produktentwicklung bis zur Marktreife.",
         "highlights": ["Käserei", "Bäckerei", "Räucherwaren"]
       },
       {
@@ -80,87 +80,118 @@
     ],
     "approach": {
       "title": "Meine Arbeitsweise",
-      "firstWeek": "In der ersten Woche",
-      "firstWeekText": "packe ich an — vom Büro des Küchenchefs bis zur Abwaschstation. Ich beobachte Produktions- und Betriebsprozesse, analysiere Arbeitsabläufe und lerne die Organisation von Grund auf kennen.",
-      "stressText": "Wenn «Stresssituationen» übermässig auftreten, müssen Abläufe optimiert werden — nicht das Personal. Oft helfen kluge Anpassungen am Menü, um den Druck in der Küche nachhaltig zu reduzieren und Qualität sowie Konsistenz kontinuierlich zu gewährleisten.",
+      "firstWeek": "Ab der ersten Woche",
+      "firstWeekText": "packe ich an: vom Büro des Küchenchefs bis zur Abwaschstation. Ich beobachte Produktions- und Betriebsprozesse, analysiere Arbeitsabläufe und lerne die Organisation von Grund auf kennen.",
+      "stressText": "Wenn «Stresssituationen» übermässig auftreten, müssen Abläufe optimiert werden. Oft helfen kluge Anpassungen am Menü, um den Druck in der Küche nachhaltig zu reduzieren und Qualität sowie Konsistenz kontinuierlich zu gewährleisten.",
       "profitNiches": "Ich finde Profit-Nischen,",
-      "profitNichesText": "die andere übersehen: An einem Regentag auf der Alp ohne Gäste produziere ich Granola-Energieriegel für Wanderer oder Kombucha als Erfrischungsgetränk — zusätzliche Einnahmen aus vorhandenen Ressourcen.",
+      "profitNichesText": "die andere übersehen: An einem Regentag auf der Alp ohne Gäste produziere ich Granola-Energieriegel für Wanderer oder Kombucha als Erfrischungsgetränk. Ich generiere zusätzliche Einnahmen aus vorhandenen Ressourcen.",
       "menuDev": "Menüentwicklung:",
-      "menuDevText": "Lokal zuerst, frisch zuerst, saisonal zuerst, Qualität zuerst. Ich wandere durch Wälder und Alpweiden, sammle wilde Beeren und Bergthymian für meine Küche."
+      "menuDevText": "Lokal zuerst, frisch zuerst, saisonal zuerst, Qualität zuerst. In meiner Freizeit wandere ich gerne durch Wälder und Alpweiden, sammle wilde Beeren und Bergkräuter für meine Küche."
     }
   },
   "experience": {
     "title": "Mein Werdegang",
-    "subtitle": "Von der Lausanner Hotelküche über Kalifornien und Kolumbien — zurück in die Schweiz.",
+    "subtitle": "Von der Lausanner Hotelküche über Kalifornien und Kolumbien, zurück in die Schweiz.",
     "items": [
       {
         "year": "1984–1987",
-        "title": "Kochlehre — Hotel de la Paix, Lausanne",
+        "title": "Kochlehre, Hotel de la Paix, Lausanne",
         "description": "Dreijährige Lehre mit Abschluss eidgenössischer Fachausweis (Koch EFZ). Praxis in Fine-Dining und internationaler Küche. Zusätzlich: Certificat d'Économie, École Lémania (1986)."
       },
       {
         "year": "1987",
-        "title": "Koch — Schweizer Armee",
-        "description": "Zubereitung von Mahlzeiten unter militärischen Bedingungen. Fokus auf Effizienz, Logistik und Qualität bei Grossverpflegung."
+        "title": "Koch, Schweizer Armee",
+        "description": "Zubereitung von Mahlzeiten unter militärischen Bedingungen. Fokus auf Effizienz, Logistik und Qualität bei Grossverpflegung. Nach kurzer Zeit wurde ich in die Offizersküche befördert und hatte das Vergnügen, mit eigenständigem Budget den Einkauf und die Verpflegung der Offiziere zu gewährleisten."
       },
       {
         "year": "1987–1989",
-        "title": "Koch & Beverage Supervisor — Anaheim Hilton & Towers, Kalifornien",
+        "title": "Koch & Beverage Supervisor, Anaheim Hilton & Towers, Kalifornien",
         "description": "Grösstes Hotel Südkaliforniens: 1'600 Zimmer, bis zu 8'000 Gäste täglich. Arbeit in allen Küchenabteilungen (französisch, italienisch, mexikanisch). Aufstieg zum Beverage Supervisor: Verantwortung für 5 Bars/Restaurants, 45 Mitarbeiter, USD 3.5 Mio. Jahresumsatz."
       },
       {
         "year": "1989–1994",
-        "title": "BSc & MBA — University of Central Florida, Orlando",
-        "description": "Bachelor of Science in Business Administration (Mai 1993, Summa Cum Laude, Top 2%, Stipendium) und Master of Business Administration (Dezember 1994). Schwerpunkte: Finanzwirtschaft, Unternehmensführung, Marketing, Bilanzanalyse. Parallel: Praktika bei Accent Consulting Group und U.S. Small Business Administration — u.a. Geschäftspläne für Gastronomie-Unternehmen."
+        "title": "BSc & MBA, University of Central Florida, Orlando",
+        "description": "Bachelor of Science in Business Administration (Mai 1993, Summa Cum Laude, Top 2%, Stipendium) und Master of Business Administration (Dezember 1994). Schwerpunkte: Finanzwirtschaft, Unternehmensführung, Marketing, Bilanzanalyse. Parallel: Praktika bei Accent Consulting Group und U.S. Small Business Administration, u.a. Geschäftspläne für Gastronomie-Unternehmen."
       },
       {
         "year": "1995",
-        "title": "Assistant Manager — Taco Bell (PepsiCo), Orlando",
-        "description": "Führung eines Fast-Food-Betriebs mit USD 750'000 Jahresumsatz. Verantwortlich für Personalführung, Inventarkontrolle und Kundenbeziehungen."
+        "title": "Assistant Manager, Taco Bell (PepsiCo), Orlando",
+        "description": "Mitverantwortlich für die Führung eines Fast-Food-Betriebs mit USD 750'000 Jahresumsatz. Verantwortlich für Personalführung, Inventarkontrolle und Kundenbeziehungen."
       },
       {
         "year": "1995–1998",
-        "title": "General Manager & Product Development — Florida",
-        "description": "Newquest Ltd. (1995–1996): Leitung eines Internet-Startups — Finanzen, EDV, Marketing. American Executive Centers (1996–1998): Entwicklung und Markteinführung eines Multimillionen-Dollar-Internetprojekts, Unterstützung des CFO bei Finanzreporting und Aktienausgaben."
+        "title": "General Manager & Product Development, Florida",
+        "description": "Newquest Ltd. (1995–1996): Leitung eines Internet-Startups (Finanzen, EDV, Marketing). American Executive Centers (1996–1998): Entwicklung und Markteinführung eines Multimillionen-Dollar-Internetprojekts, Unterstützung des CFO bei Finanzreporting und Aktienausgaben."
       },
       {
         "year": "1998–2004",
-        "title": "Harvest Soaps — Eigenes Unternehmen, Florida",
+        "title": "Harvest Soaps, Eigenes Unternehmen, Florida",
         "description": "Gründung und Leitung eines Familienbetriebs für handwerkliche Naturseifen mit E-Commerce-Vertrieb. Verantwortlich für Geschäftsplanung, Produktion, Finanzen, Marketing und Online-Verkauf. Aufbau einer Marke von Null."
       },
       {
         "year": "2004–2007",
-        "title": "MinCafé — Kaffeerösterei, Minca (Sierra Nevada, Kolumbien)",
-        "description": "Ankunft in Kolumbien über eine Kitesurf-Schule in Cartagena. Entwicklung einer Spezialitätenkaffee-Marke mit innovativer Holzkohleröstung in Kooperation mit lokalen Bauern. Zusätzlich: Mangoessig, Trockenfrüchte, Spirituosen. Pionierarbeit in einer von paramilitärischen Kräften kontrollierten Region."
+        "title": "MinCafé, Kaffeerösterei, Minca (Sierra Nevada, Kolumbien)",
+        "description": "Ankunft in Kolumbien. Entwicklung einer Spezialitätenkaffee-Marke mit innovativer Holzkohleröstung in Kooperation mit lokalen Bauern. Zusätzlich: Mangoessig, Trockenfrüchte, Spirituosen. Pionierarbeit in einer von paramilitärischen Kräften kontrollierten Region."
       },
       {
         "year": "2007–2014",
-        "title": "Casa Suiza — Eigenes Restaurant, Cartagena",
+        "title": "Casa Suiza, Eigenes Restaurant, Cartagena",
         "description": "Gründung und Leitung eines Swiss-Fusion-Restaurants. Spätzli in allen Variationen als Bestseller, täglich frisches Brot mit Kräuterbutter, Basler Läckerli und Magenbrot zum Kaffee. Schweizer Qualität für kolumbianische und internationale Gäste. Pivotierung zur Lebensmittelproduktion für andere Gastrobetriebe."
       },
       {
         "year": "2014–2025",
-        "title": "Handwerkliche Lebensmittelmanufaktur — Medellín & Guarne",
+        "title": "Handwerkliche Lebensmittelmanufaktur, Medellín & Guarne",
         "description": "Produktion von Käse (Gouda, Feta, Brie, Blauschimmel, Halloumi, Belper Knollen, Mozzarella, Provolone), Backwaren, Räucherwaren mit Avocadoholz, Joghurt und Konfitüren. Ab 2018: Eigene Milchwirtschaft mit Jersey-Kühen für optimale Milchqualität. Hauptlieferant von Feta und griechischem Joghurt für die griechischen Restaurants in Medellín."
       },
       {
         "year": "2026",
         "title": "Rückkehr in die Schweiz",
-        "description": "Bereit für neue Herausforderungen. Verfügbar ab August 2026 für saisonale und temporäre Engagements in der ganzen Schweiz — mit eigenem Camper-Van, ohne Unterkunftsbedarf."
+        "description": "Bereit für neue Herausforderungen. Verfügbar ab August 2026 für saisonale und temporäre Engagements in der ganzen Schweiz, mit eigenem Camper-Van, ohne Unterkunftsbedarf."
       }
     ]
   },
   "gallery": {
     "title": "Meine Kreationen",
-    "subtitle": "Von handwerklichem Käse über Schwarzwälder Kirschtorte bis zu Tricolor-Spätzli — alles von Grund auf.",
-    "categories": {
-      "all": "Alle",
-      "dishes": "Gerichte",
-      "bakery": "Backwaren & Desserts",
-      "charcuterie": "Fleisch & Wurstwaren",
-      "cheese": "Käse",
-      "products": "Produkte",
-      "restaurant": "Restaurant & Events"
+    "subtitle": "Über 40 Jahre kulinarisches Handwerk, vom Restaurant über die Käserei bis zum Catering-Event.",
+    "restaurant": {
+      "title": "Restaurant",
+      "intro": "Jahrelange Erfahrung in der Gastronomie. Im Hotel de la Paix in Lausanne und im Anaheim Hilton in Kalifornien habe ich Qualität gelernt. Bei Taco Bell (PepsiCo) lernte ich, wie man effizient arbeitet. In meinem eigenen Restaurant Casa Suiza in Cartagena habe ich all das erfolgreich angewandt.",
+      "story": "Das Konzept der Casa Suiza war ein Fusionsprojekt. Schweizer und europäische Küche, angepasst an den kolumbianischen Geschmack. Spätzli in allen Variationen wurde zum Bestseller. Mein frisch gebackenes Brot mit Kräuterbutter wurde von der Kundschaft ebenso geschätzt wie die Backwaren und verschiedene Produkte: Dijon-Senf, Bayerischer Süsssenf, scharfe Saucen und mehr.",
+      "pivot": "Ich musste das Restaurant schliessen, weil die Eigentümer das Lokal beanspruchten. Gleichzeitig eröffnete sich die Möglichkeit, meine Geschäftstätigkeit in Medellín fortzusetzen, wo ich eine grössere Kundenbasis hatte. Ich pivotierte zur Lebensmittelproduktion, zunächst in Cartagena. Mein Lokal war klein, und um den Umsatz zu steigern, konzentrierte ich mich auf die Produktion für andere Gastrobetriebe. Diesen Ansatz setzte ich fort, als ich auf eine Avocadofarm in Guarne bei Medellín zog."
+    },
+    "foodProduction": {
+      "title": "Lebensmittelproduktion",
+      "cheese": {
+        "title": "Käseherstellung",
+        "intro": "Ich liebe herausfordernde Projekte. Die Käseproduktion faszinierte mich wegen ihrer Komplexität. Ich produzierte eine grosse Vielfalt an Milchprodukten aus der Milch meiner eigenen Kühe. Ich war mit der Milchqualität nicht zufrieden, also kaufte ich eigene Kühe, um die Qualität von der Quelle bis zum Tisch zu kontrollieren. Einige behaupteten, ich produziere die besten Käse in Kolumbien.",
+        "varieties": "Ich stellte alles her: von Fruchtjoghurts mit lokalen Früchten, griechischem Joghurt, Hüttenkäse, Ricotta, Blauschimmelkäse-Variationen, Brie, Feta, Halloumi, Belper Knollen, Gouda, Mozzarella bis Provolone, einschliesslich mit Avocadoholz geräuchertem Provolone. Zeitweise belieferte ich die Mehrheit der griechischen Restaurants in Medellín mit Feta und griechischem Joghurt.",
+        "learning": "Kolumbianer mögen keine starken, gereiften Käse. Meine Bestseller waren Gouda für Privatkunden und Feta für Geschäftskunden. Ich brachte es mir selbst bei: zuerst durch intensives Studium des technischsten Käseherstellungsbuchs. Danach hiess es Versuch und Irrtum, bis ich mit dem Produkt zufrieden war.",
+        "covid": "Vor Covid hatte ich nicht genug Milch für gereifte Käse. Doch als alle meine Restaurantkunden während der Quarantäne schliessen mussten, verlor ich 100% meiner Kundschaft. Meine Kühe produzierten täglich 100 Liter Milch, und ich hatte keine Abnehmer mehr. Das war der Zeitpunkt, an dem ich mit der Herstellung gereifter Käse begann, die 1–3 Monate zum Reifen brauchten. Während der Reifezeit baute ich ein neues Vertriebsnetz auf und begann, gereifte Käse an Privatkunden zu verkaufen.",
+        "cows": "Ich begann mit fünf Jersey-Kühen. Sie geben zwar weniger Milch als Holstein-Kühe, aber der Protein- und Fettgehalt ist deutlich höher. Es war eine steile Lernkurve, aber ich bin ein schneller und wissbegieriger Lerner. Als ich mehr Kühe hatte und die Weide knapp wurde, begann ich sie mit gekeimten Maisteppichen zu füttern. Das steigerte die Milchqualität und -menge erheblich und reduzierte gleichzeitig die anfallende Molke. Übrigens: Ich hatte Hühner und Schweine, und die Molke ging an diese Tiere.",
+        "cowsCaption": "Jersey-Kühe liefern hervorragende Milch für die Käseproduktion. Die Fütterung mit Maissprossen erhöhte die Qualität noch weiter.",
+        "processingCaption": "Milchverarbeitung in der Käserei und Schneiden des Bruchs",
+        "resultsCaption": "Die Ergebnisse"
+      },
+      "yogurt": {
+        "title": "Frucht- und griechischer Joghurt",
+        "caption": "Eine Produktlinie von Frucht- und griechischem Joghurt"
+      },
+      "charcuterie": {
+        "title": "Geräucherte und getrocknete Fleischwaren",
+        "intro": "Über die Jahre experimentierte ich mit kalt- und heissgeräucherten sowie getrockneten Fleischwaren. Von Coppa, Parmaschinken, Salami und verschiedenen Schinken bis hin zu Bündnerfleisch, alles wurde kreiert. Da ich auf einer Avocadofarm lebte, verwendete ich Avocadoholz zum Räuchern von Fleisch und Käse."
+      },
+      "bakery": {
+        "title": "Backwaren",
+        "intro": "Meine Backfähigkeiten sind umfassend. Alle Arten von Brot, Laugengebäck, Kuchen, Marzipan-Biberli (mit selbstgemachtem Marzipan), Magenbrot, Basler Läckerli, Weihnachtsguetzli, Stollen: alles ist in meinem Repertoire."
+      }
+    },
+    "events": {
+      "title": "Events",
+      "intro": "Ich habe für unzählige Events das Essen bereitgestellt: Hochzeiten, Firmenanlässe und Fachmessen. In Cartagena kochte ich für prestigeträchtige Veranstaltungen wie Empfänge des Schweizer Konsulats und Sonderevents für Aramark/Drummond Mining in Kolumbien."
+    },
+    "misc": {
+      "title": "Verschiedene Lebensmittelprojekte",
+      "intro": "In Kolumbien spezialisierte ich mich auf die Herstellung europäischer Lebensmittel, die entweder nicht erhältlich oder teure Importprodukte waren. Sauerkraut, eine Linie von scharfen Saucen, drei Sorten Senf, BBQ-Sauce und vieles mehr gehörten dazu."
     }
   },
   "credentials": {
@@ -171,30 +202,30 @@
   },
   "contact": {
     "title": "Kontakt",
-    "subtitle": "Lassen Sie uns über Ihre Anforderungen sprechen — unverbindlich und unkompliziert.",
+    "subtitle": "Lassen Sie uns über Ihre Anforderungen sprechen, unverbindlich und unkompliziert.",
     "email": "E-Mail",
     "whatsapp": "WhatsApp",
     "whatsappText": "Direktnachricht senden",
     "availability": "Verfügbar ab August 2026",
     "availabilityText": "Saisonale & temporäre Engagements",
-    "location": "Ganze Schweiz — auch weltweit einsatzbereit",
-    "locationText": "Flexibel mit eigenem Camper-Van — keine Unterkunft nötig",
+    "location": "Ganze Schweiz, auch weltweit einsatzbereit",
+    "locationText": "Flexibel mit eigenem Camper-Van, keine Unterkunft nötig",
     "whyTitle": "Warum Marcus Lauer?",
     "benefits": [
-      "Keine Unterkunft nötig — eigener Camper-Van",
-      "Sofort einsatzbereit — schnelle Einarbeitung",
+      "Keine Unterkunft nötig, eigener Camper-Van",
+      "Sofort einsatzbereit, schnelle Einarbeitung",
       "4 Sprachen: DE, EN, FR, ES",
       "Koch EFZ + MBA = Kulinarik trifft Betriebswirtschaft",
       "40+ Jahre internationale Erfahrung",
       "Ideal für Saison, Vertretung oder Beratung"
     ],
     "ctaTitle": "Bereit für ein Gespräch?",
-    "ctaText": "Ob Saisonverstärkung, Beratungsprojekt oder Notfall-Ersatz — schreiben Sie mir und wir finden die passende Lösung.",
+    "ctaText": "Ob Saisonverstärkung, Beratungsprojekt oder Notfall-Ersatz, schreiben Sie mir und wir finden die passende Lösung.",
     "ctaButton": "Jetzt anfragen"
   },
   "footer": {
     "tagline": "Schweizer Küchenchef & Kulinarischer Berater.",
-    "tagline2": "40 Jahre Erfahrung — Drei Kontinente — Eine Leidenschaft.",
+    "tagline2": "40 Jahre Erfahrung. Drei Kontinente. Eine Leidenschaft.",
     "navigation": "Navigation",
     "contactTitle": "Kontakt",
     "available": "Verfügbar ab August 2026",
